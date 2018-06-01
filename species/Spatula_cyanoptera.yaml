@@ -1,0 +1,12 @@
+species:
+  bSpaCya:
+    name: Spatula cyanoptera
+    taxon_id: 75840
+    common_name: cinnamon teal
+    order:
+      name: Anseriformes
+    family:
+      name: Anatidae
+individuals:
+  bSpaCya1:
+    species: bSpaCya

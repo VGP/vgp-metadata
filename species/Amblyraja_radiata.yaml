@@ -1,0 +1,12 @@
+species:
+  sAmbRad:
+    name: Amblyraja radiata
+    taxon_id: 386614
+    common_name: thorny skate
+    order:
+      name: Rajiformes
+    family:
+      name: Rajidae
+individuals:
+  sAmbRad1:
+    species: sAmbRad

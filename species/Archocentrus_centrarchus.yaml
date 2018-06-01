@@ -1,0 +1,12 @@
+species:
+  fArcCen:
+    name: Archocentrus centrarchus
+    taxon_id: 63155
+    common_name: flier cichlid
+    order:
+      name: Cichliformes
+    family:
+      name: Cichlidae
+individuals:
+  fArcCen1:
+    species: fArcCen

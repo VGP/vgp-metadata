@@ -1,0 +1,12 @@
+species:
+  fMasArm:
+    name: Mastacembelus armatus
+    taxon_id: 205130
+    common_name: tire-track eel
+    order:
+      name: Synbranchiformes
+    family:
+      name: Mastacembelidae
+individuals:
+  fMasArm1:
+    species: fMasArm

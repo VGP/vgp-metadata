@@ -1,0 +1,12 @@
+species:
+  bAcaChl:
+    name: Acanthisitta chloris
+    taxon_id: 57068
+    common_name: rifleman
+    order:
+      name: Passeriformes
+    family:
+      name: Acanthisittidae
+individuals:
+  bAcaChl1:
+    species: bAcaChl

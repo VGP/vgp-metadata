@@ -1,0 +1,12 @@
+species:
+  rDerCor:
+    name: Dermochelys coriacea
+    taxon_id: 27794
+    common_name: leatherback sea turtle
+    order:
+      name: Testudines
+    family:
+      name: Dermochelyidae
+individuals:
+  rDerCor1:
+    species: rDerCor

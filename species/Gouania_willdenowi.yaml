@@ -1,0 +1,12 @@
+species:
+  fGouWil:
+    name: Gouania willdenowi
+    taxon_id: 441366
+    common_name: blunt-snouted clingfish
+    order:
+      name: Blenniiformes
+    family:
+      name: Gobiesocidae
+individuals:
+  fGouWil2:
+    species: fGouWil

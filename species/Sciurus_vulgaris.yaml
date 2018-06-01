@@ -1,0 +1,12 @@
+species:
+  mSciVul:
+    name: Sciurus vulgaris
+    taxon_id: 55149
+    common_name: Eurasian red squirrel
+    order:
+      name: Rodentia
+    family:
+      name: Sciuridae
+individuals:
+  mSciVul1:
+    species: mSciVul

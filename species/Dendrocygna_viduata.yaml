@@ -1,0 +1,12 @@
+species:
+  bDenVid:
+    name: Dendrocygna viduata
+    taxon_id: 8876
+    common_name: white-faced whistling-duck
+    order:
+      name: Anseriformes
+    family:
+      name: Anatidae
+individuals:
+  bDenVid1:
+    species: bDenVid

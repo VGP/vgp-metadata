@@ -1,0 +1,12 @@
+species:
+  bStrHab:
+    name: Strigops habroptilus
+    taxon_id: 57251
+    common_name: owl parrot
+    order:
+      name: Psittaciformes
+    family:
+      name: Psittacidae
+individuals:
+  bStrHab1:
+    species: bStrHab

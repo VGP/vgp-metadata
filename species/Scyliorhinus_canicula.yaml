@@ -1,0 +1,12 @@
+species:
+  sScyCan:
+    name: Scyliorhinus canicula
+    taxon_id: 7830
+    common_name: lesser-spotted catshark
+    order:
+      name: Carcharhiniformes
+    family:
+      name: Scyliorhinidae
+individuals:
+  sScyCan1:
+    species: sScyCan

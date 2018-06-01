@@ -1,0 +1,12 @@
+species:
+  mLynCan:
+    name: Lynx canadensis
+    taxon_id: 61383
+    common_name: Canada lynx
+    order:
+      name: Carnivora
+    family:
+      name: Felidae
+individuals:
+  mLynCan4:
+    species: mLynCan

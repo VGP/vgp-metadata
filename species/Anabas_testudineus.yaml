@@ -1,0 +1,12 @@
+species:
+  fAnaTes:
+    name: Anabas testudineus
+    taxon_id: 64144
+    common_name: climbing perch
+    order:
+      name: Anabantiformes
+    family:
+      name: Anabantoidei
+individuals:
+  fAnaTes1:
+    species: fAnaTes

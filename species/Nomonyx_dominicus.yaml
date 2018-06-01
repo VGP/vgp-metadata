@@ -1,0 +1,12 @@
+species:
+  bNomDom:
+    name: Nomonyx dominicus
+    taxon_id: 555276
+    common_name: masked duck
+    order:
+      name: Anseriformes
+    family:
+      name: Anatidae
+individuals:
+  bNomDom1:
+    species: bNomDom
