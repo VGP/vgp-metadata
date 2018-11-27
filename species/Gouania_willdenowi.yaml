@@ -10,3 +10,4 @@ species:
 individuals:
   fGouWil2:
     species: fGouWil
+    exp_genome_size: 1182215999

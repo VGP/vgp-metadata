@@ -10,3 +10,4 @@ species:
 individuals:
   mRhiFer1:
     species: mRhiFer
+    exp_genome_size: 2369916842

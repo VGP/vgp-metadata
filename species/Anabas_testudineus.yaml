@@ -10,3 +10,4 @@ species:
 individuals:
   fAnaTes1:
     species: fAnaTes
+    exp_genome_size: 662696525

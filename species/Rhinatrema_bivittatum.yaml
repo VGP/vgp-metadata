@@ -10,3 +10,4 @@ species:
 individuals:
   aRhiBiv1:
     species: aRhiBiv
+    exp_genome_size: 5067838282

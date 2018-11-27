@@ -10,3 +10,4 @@ species:
 individuals:
   bCalAnn1:
     species: bCalAnn
+    exp_genome_size: 1116472572

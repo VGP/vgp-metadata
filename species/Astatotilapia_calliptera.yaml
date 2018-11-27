@@ -10,3 +10,4 @@ species:
 individuals:
   fAstCal1:
     species: fAstCal
+    exp_genome_size: 972478608

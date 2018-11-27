@@ -10,3 +10,4 @@ species:
 individuals:
   bStrHab1:
     species: bStrHab
+    exp_genome_size: 1193409022

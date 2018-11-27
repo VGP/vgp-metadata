@@ -10,3 +10,4 @@ species:
 individuals:
   mLynCan4:
     species: mLynCan
+    exp_genome_size: 2471525315

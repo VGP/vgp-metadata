@@ -12,3 +12,4 @@ individuals:
     species: fCotGob
   fCotGob3:
     species: fCotGob
+    exp_genome_size: 700000000

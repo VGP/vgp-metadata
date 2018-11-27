@@ -10,3 +10,4 @@ species:
 individuals:
   sAmbRad1:
     species: sAmbRad
+    exp_genome_size: 2072923533

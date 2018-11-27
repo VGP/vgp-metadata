@@ -10,5 +10,7 @@ species:
 individuals:
   bTaeGut1:
     species: bTaeGut
+    exp_genome_size: 1035611271
   bTaeGut2:
     species: bTaeGut
+    exp_genome_size: 1009982966
