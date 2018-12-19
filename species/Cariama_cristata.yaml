@@ -1,12 +1,15 @@
 species:
-  bCarCri:
-    name: Cariama cristata
-    taxon_id: 54380
-    common_name: red-legged seriema
-    order:
-      name: Cariamiformes
-    family:
-      name: Cariamidae;
-individuals:
-  bCarCri1:
-    species: bCarCri
+  short_name: bCarCri
+  name: Cariama cristata
+  taxon_id: 54380
+  common_name: red-legged seriema
+  order:
+    name: Cariamiformes
+  family:
+    name: Cariamidae
+  individuals:
+    - bCarCri1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

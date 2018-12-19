@@ -1,12 +1,15 @@
 species:
-  rGopEvg:
-    name: Gopherus evgoodei
-    taxon_id: 1825980
-    common_name: Goode's thornscrub tortoise
-    order:
-      name: Testudines
-    family:
-      name: Testudinidae
-individuals:
-  rGopEvg1:
-    species: rGopEvg
+  short_name: rGopEvg
+  name: Gopherus evgoodei
+  taxon_id: 1825980
+  common_name: Goode's thornscrub tortoise
+  order:
+    name: Testudines
+  family:
+    name: Testudinidae
+  individuals:
+    - rGopEvg1
+  image: /assets/images/Gopherus_evgoodei.jpg
+  image_license: unknown
+  genome_size: 2684436481
+  genome_size_method:

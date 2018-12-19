@@ -1,12 +1,15 @@
 species:
-  bBucAby:
-    name: Bucorvus abyssinicus
-    taxon_id: 153643
-    common_name: Abyssinian ground-hornbill
-    order:
-      name: Bucerotiformes
-    family:
-      name: Bucorvidae
-individuals:
-  bBucAby1:
-    species: bBucAby
+  short_name: bBucAby
+  name: Bucorvus abyssinicus
+  taxon_id: 153643
+  common_name: Abyssinian ground-hornbill
+  order:
+    name: Bucerotiformes
+  family:
+    name: Bucorvidae
+  individuals:
+    - bBucAby1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

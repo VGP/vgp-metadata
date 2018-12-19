@@ -1,12 +1,15 @@
 species:
-  fSalTru:
-    name: Salmo trutta
-    taxon_id: 8032
-    common_name: brown trout
-    order:
-      name: Salmoniformes
-    family:
-      name: Salmonidae;
-individuals:
-  fSalTru1:
-    species: fSalTru
+  short_name: fSalTru
+  name: Salmo trutta
+  taxon_id: 8032
+  common_name: brown trout
+  order:
+    name: Salmoniformes
+  family:
+    name: Salmonidae
+  individuals:
+    - fSalTru1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

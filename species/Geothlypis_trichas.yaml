@@ -1,12 +1,15 @@
 species:
-  bGeoTri:
-    name: Geothlypis trichas
-    taxon_id: 135433
-    common_name: common yellowthroat
-    order:
-      name: Passeriformes
-    family:
-      name: Parulidae
-individuals:
-  bGeoTri1:
-    species: bGeoTri
+  short_name: bGeoTri
+  name: Geothlypis trichas
+  taxon_id: 135433
+  common_name: common yellowthroat
+  order:
+    name: Passeriformes
+  family:
+    name: Parulidae
+  individuals:
+    - bGeoTri1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

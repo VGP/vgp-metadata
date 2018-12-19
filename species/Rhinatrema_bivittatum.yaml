@@ -1,12 +1,15 @@
 species:
-  aRhiBiv:
-    name: Rhinatrema bivittatum
-    taxon_id: 194408
-    common_name: two-lined caecilian
-    order:
-      name: Apoda
-    family:
-      name: Rhinatrematidae
-individuals:
-  aRhiBiv1:
-    species: aRhiBiv
+  short_name: aRhiBiv
+  name: Rhinatrema bivittatum
+  taxon_id: 194408
+  common_name: two-lined caecilian
+  order:
+    name: Apoda
+  family:
+    name: Rhinatrematidae
+  individuals:
+    - aRhiBiv1
+  image: /assets/images/frog.png
+  image_license: unknown
+  genome_size: 5067838282
+  genome_size_method:

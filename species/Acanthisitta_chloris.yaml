@@ -1,12 +1,15 @@
 species:
-  bAcaChl:
-    name: Acanthisitta chloris
-    taxon_id: 57068
-    common_name: rifleman
-    order:
-      name: Passeriformes
-    family:
-      name: Acanthisittidae
-individuals:
-  bAcaChl1:
-    species: bAcaChl
+  short_name: bAcaChl
+  name: Acanthisitta chloris
+  taxon_id: 57068
+  common_name: rifleman
+  order:
+    name: Passeriformes
+  family:
+    name: Acanthisittidae
+  individuals:
+    - bAcaChl1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

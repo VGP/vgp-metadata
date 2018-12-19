@@ -1,12 +1,15 @@
 species:
-  fTakRub:
-    name: Takifugu rubripes
-    taxon_id: 31033
-    common_name: torafugu
-    order:
-      name: Tetraodontiformes
-    family:
-      name: Tetraodontidae
-individuals:
-  fTakRub1:
-    species: fTakRub
+  short_name: fTakRub
+  name: Takifugu rubripes
+  taxon_id: 31033
+  common_name: torafugu
+  order:
+    name: Tetraodontiformes
+  family:
+    name: Tetraodontidae
+  individuals:
+    - fTakRub1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

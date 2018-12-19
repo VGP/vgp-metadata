@@ -1,14 +1,16 @@
 species:
-  fCotGob:
-    name: Cottoperca gobio
-    taxon_id: 56716
-    common_name: Channel bull blenny
-    order:
-      name: Perciformes
-    family:
-      name: Notothenioidei
-individuals:
-  fCotGob2:
-    species: fCotGob
-  fCotGob3:
-    species: fCotGob
+  short_name: fCotGob
+  name: Cottoperca gobio
+  taxon_id: 56716
+  common_name: Channel bull blenny
+  order:
+    name: Perciformes
+  family:
+    name: Notothenioidei
+  individuals:
+    - fCotGob2
+    - fCotGob3
+  image: /assets/images/Cottoperca_gobio.jpg
+  image_license: unknown
+  genome_size: 700000000
+  genome_size_method:

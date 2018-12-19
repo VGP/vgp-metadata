@@ -1,12 +1,15 @@
 species:
-  bCalAnn:
-    name: Calypte anna
-    taxon_id: 9244
-    common_name: Anna's hummingbird
-    order:
-      name: Apodiformes
-    family:
-      name: Trochilidae
-individuals:
-  bCalAnn1:
-    species: bCalAnn
+  short_name: bCalAnn
+  name: Calypte anna
+  taxon_id: 9244
+  common_name: Anna's hummingbird
+  order:
+    name: Apodiformes
+  family:
+    name: Trochilidae
+  individuals:
+    - bCalAnn1
+  image: /assets/images/Calypte_anna.jpg
+  image_license: unknown
+  genome_size: 1116472572
+  genome_size_method:

@@ -1,12 +1,15 @@
 species:
-  bAquChr:
-    name: Aquila chrysaetos chrysaetos
-    taxon_id: 223781
-    common_name: Eurpoean golden eagle
-    order:
-      name: Falconiformes
-    family:
-      name: Accipitridae
-individuals:
-  bAquChr1:
-    species: bAquChr
+  short_name: bAquChr
+  name: Aquila chrysaetos chrysaetos
+  taxon_id: 223781
+  common_name: Eurpoean golden eagle
+  order:
+    name: Falconiformes
+  family:
+    name: Accipitridae
+  individuals:
+    - bAquChr1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

@@ -1,12 +1,15 @@
 species:
-  bTurMer:
-    name: Turdus merula
-    taxon_id: 9187
-    common_name: blackbird
-    order:
-      name: Passeriformes;
-    family:
-      name: Turdidae
-individuals:
-  bTurMer1:
-    species: bTurMer
+  short_name: bTurMer
+  name: Turdus merula
+  taxon_id: 9187
+  common_name: blackbird
+  order:
+    name: Passeriformes
+  family:
+    name: Turdidae
+  individuals:
+    - bTurMer1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

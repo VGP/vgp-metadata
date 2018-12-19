@@ -1,14 +1,16 @@
 species:
-  mOrnAna:
-    name: Ornithorhynchus anatinus
-    taxon_id: 9258
-    common_name: platypus
-    order:
-      name: Monotremata
-    family:
-      name: Ornithorhynchidae;
-individuals:
-  mOrnAna1:
-    species: mOrnAna
-  mOrnAna2:
-    species: mOrnAna
+  short_name: mOrnAna
+  name: Ornithorhynchus anatinus
+  taxon_id: 9258
+  common_name: platypus
+  order:
+    name: Monotremata
+  family:
+    name: Ornithorhynchidae
+  individuals:
+    - mOrnAna1
+    - mOrnAna2
+  image: /assets/images/Ornithorhynchus_anatinus.jpg
+  image_license: unknown
+  genome_size: 2128226567
+  genome_size_method:

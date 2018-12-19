@@ -1,12 +1,15 @@
 species:
-  mChoDid:
-    name: Choloepus didactylus
-    taxon_id: 27675
-    common_name: southern two-toed sloth
-    order:
-      name: Folivora
-    family:
-      name: Megalonychidae
-individuals:
-  mChoDid1:
-    species: mChoDid
+  short_name: mChoDid
+  name: Choloepus didactylus
+  taxon_id: 27675
+  common_name: southern two-toed sloth
+  order:
+    name: Folivora
+  family:
+    name: Megalonychidae
+  individuals:
+    - mChoDid1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

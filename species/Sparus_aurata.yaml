@@ -1,12 +1,15 @@
 species:
-  fSpaAur:
-    name: Sparus aurata
-    taxon_id: 8175
-    common_name: gilthead seabream
-    order:
-      name: Spariformes
-    family:
-      name: Sparidae
-individuals:
-  fSpaAur1:
-    species: fSpaAur
+  short_name: fSpaAur
+  name: Sparus aurata
+  taxon_id: 8175
+  common_name: gilthead seabream
+  order:
+    name: Spariformes
+  family:
+    name: Sparidae
+  individuals:
+    - fSpaAur1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

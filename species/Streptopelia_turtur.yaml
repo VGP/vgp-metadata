@@ -1,12 +1,15 @@
 species:
-  bStrTur:
-    name: Streptopelia turtur
-    taxon_id: 177155
-    common_name: turtle dove
-    order:
-      name: Columbiformes
-    family:
-      name: Columbidae
-individuals:
-  bStrTur1:
-    species: bStrTur
+  short_name: bStrTur
+  name: Streptopelia turtur
+  taxon_id: 177155
+  common_name: turtle dove
+  order:
+    name: Columbiformes
+  family:
+    name: Columbidae
+  individuals:
+    - bStrTur1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

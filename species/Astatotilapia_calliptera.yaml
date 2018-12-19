@@ -1,12 +1,15 @@
 species:
-  fAstCal:
-    name: Astatotilapia calliptera
-    taxon_id: 8154
-    common_name: eastern happy
-    order:
-      name: Cichliformes
-    family:
-      name: Cichlidae
-individuals:
-  fAstCal1:
-    species: fAstCal
+  short_name: fAstCal
+  name: Astatotilapia calliptera
+  taxon_id: 8154
+  common_name: eastern happy
+  order:
+    name: Cichliformes
+  family:
+    name: Cichlidae
+  individuals:
+    - fAstCal1
+  image:  /assets/images/Astatotilapia_calliptera.jpg
+  image_license: unknown
+  genome_size: 972478608
+  genome_size_method:

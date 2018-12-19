@@ -1,12 +1,15 @@
 species:
-  mRhiFer:
-    name: Rhinolophus ferrumequinum
-    taxon_id: 59479
-    common_name: greater horseshoe bat
-    order:
-      name: Chiroptera
-    family:
-      name: Rhinolophidae
-individuals:
-  mRhiFer1:
-    species: mRhiFer
+  short_name: mRhiFer
+  name: Rhinolophus ferrumequinum
+  taxon_id: 59479
+  common_name: greater horseshoe bat
+  order:
+    name: Chiroptera
+  family:
+    name: Rhinolophidae
+  individuals:
+    - mRhiFer1
+  image: /assets/images/bat.png
+  image_license: unknown
+  genome_size: 2369916842
+  genome_size_method:

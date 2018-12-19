@@ -1,14 +1,16 @@
 species:
-  bTaeGut:
-    name: Taeniopygia guttata
-    taxon_id: 59729
-    common_name: zebra finch
-    order:
-      name: Passeriformes
-    family:
-      name: Estrildidae
-individuals:
-  bTaeGut1:
-    species: bTaeGut
-  bTaeGut2:
-    species: bTaeGut
+  short_name: bTaeGut
+  name: Taeniopygia guttata
+  taxon_id: 59729
+  common_name: zebra finch
+  order:
+    name: Passeriformes
+  family:
+    name: Estrildidae
+  individuals:
+    - bTaeGut1
+    - bTaeGut2:
+  image: /assets/images/Taeniopygia_guttata.jpg
+  image_license: unknown
+  genome_size: 1035611271
+  genome_size_method:

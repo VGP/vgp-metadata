@@ -1,12 +1,15 @@
 species:
-  fZeuFab:
-    name: Zeus faber
-    taxon_id: 64108
-    common_name: John Dory
-    order:
-      name: Zeiformes
-    family:
-      name: Zeidae
-individuals:
-  fZeuFab1:
-    species: fZeuFab
+  short_name: fZeuFab
+  name: Zeus faber
+  taxon_id: 64108
+  common_name: John Dory
+  order:
+    name: Zeiformes
+  family:
+    name: Zeidae
+  individuals:
+    - fZeuFab1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

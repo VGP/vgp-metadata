@@ -1,12 +1,15 @@
 species:
-  mPhyDis:
-    name: Phyllostomus discolor
-    taxon_id: 89673
-    common_name: pale spear-nosed bat
-    order:
-      name: Chiroptera
-    family:
-      name: Phyllostomidae
-individuals:
-  mPhyDis1:
-    species: mPhyDis
+  short_name: mPhyDis
+  name: Phyllostomus discolor
+  taxon_id: 89673
+  common_name: pale spear-nosed bat
+  order:
+    name: Chiroptera
+  family:
+    name: Phyllostomidae
+  individuals:
+    - mPhyDis1
+  image: /assets/images/Phyllostomus_discolor.jpg
+  image_license: unknown
+  genome_size: 2213798723
+  genome_size_method:

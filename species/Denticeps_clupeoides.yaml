@@ -1,12 +1,15 @@
 species:
-  fDenClu:
-    name: Denticeps clupeoides
-    taxon_id: 299321
-    common_name: denticle herring
-    order:
-      name: Clupeiformes
-    family:
-      name: Denticipitidae
-individuals:
-  fDenClu1:
-    species: fDenClu
+  short_name: fDenClu
+  name: Denticeps clupeoides
+  taxon_id: 299321
+  common_name: denticle herring
+  order:
+    name: Clupeiformes
+  family:
+    name: Denticipitidae
+  individuals:
+    - fDenClu1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

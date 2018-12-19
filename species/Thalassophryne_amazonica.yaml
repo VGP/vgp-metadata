@@ -1,12 +1,15 @@
 species:
-  fThaAma:
-    name: Thalassophryne amazonica
-    taxon_id: 390379
-    common_name: prehistoric monster fish
-    order:
-      name: Batrachoidiformes
-    family:
-      name: Batrachoididae
-individuals:
-  fThaAma1:
-    species: fThaAma
+  short_name: fThaAma
+  name: Thalassophryne amazonica
+  taxon_id: 390379
+  common_name: prehistoric monster fish
+  order:
+    name: Batrachoidiformes
+  family:
+    name: Batrachoididae
+  individuals:
+    - fThaAma1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

@@ -1,12 +1,15 @@
 species:
-  fParRan:
-    name: Parambassis ranga
-    taxon_id: 210632
-    common_name: Indian glassy fish
-    order:
-      name: Ovalentaria
-    family:
-      name: Ambassidae
-individuals:
-  fParRan2:
-    species: fParRan
+  short_name: fParRan
+  name: Parambassis ranga
+  taxon_id: 210632
+  common_name: Indian glassy fish
+  order:
+    name: Ovalentaria
+  family:
+    name: Ambassidae
+  individuals:
+    - fParRan2
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

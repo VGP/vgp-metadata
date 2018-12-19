@@ -1,12 +1,15 @@
 species:
-  fErpCal:
-    name: Erpetoichthys calabaricus
-    taxon_id: 27687
-    common_name: reedfish
-    order:
-      name: Polypteriformes
-    family:
-      name: Polypteridae
-individuals:
-  fErpCal1:
-    species: fErpCal
+  short_name: fErpCal
+  name: Erpetoichthys calabaricus
+  taxon_id: 27687
+  common_name: reedfish
+  order:
+    name: Polypteriformes
+  family:
+    name: Polypteridae
+  individuals:
+    - fErpCal1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:
