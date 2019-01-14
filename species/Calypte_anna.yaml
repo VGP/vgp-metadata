@@ -8,7 +8,7 @@ species:
   family:
     name: Trochilidae
   individuals:
-    - bCalAnn1
+    - short_name: bCalAnn1
   image: /assets/images/Calypte_anna.jpg
   image_license: unknown
   genome_size: 1116472572

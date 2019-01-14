@@ -8,7 +8,7 @@ species:
   family:
     name: Columbidae
   individuals:
-    - bStrTur1
+    - short_name: bStrTur1
   image:
   image_license:
   genome_size:

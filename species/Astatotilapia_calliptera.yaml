@@ -8,7 +8,7 @@ species:
   family:
     name: Cichlidae
   individuals:
-    - fAstCal1
+    - short_name: fAstCal1
   image:  /assets/images/Astatotilapia_calliptera.jpg
   image_license: unknown
   genome_size: 972478608

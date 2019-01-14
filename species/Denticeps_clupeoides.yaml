@@ -8,7 +8,7 @@ species:
   family:
     name: Denticipitidae
   individuals:
-    - fDenClu1
+    - short_name: fDenClu1
   image:
   image_license:
   genome_size:

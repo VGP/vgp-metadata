@@ -8,7 +8,7 @@ species:
   family:
     name: Megalonychidae
   individuals:
-    - mChoDid1
+    - short_name: mChoDid1
   image:
   image_license:
   genome_size:

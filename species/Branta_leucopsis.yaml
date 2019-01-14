@@ -8,7 +8,7 @@ species:
   family:
     name: Anatidae
   individuals:
-    - bBraLeu1
+    - short_name: bBraLeu1
   image:
   image_license:
   genome_size:

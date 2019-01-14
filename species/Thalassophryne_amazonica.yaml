@@ -8,7 +8,7 @@ species:
   family:
     name: Batrachoididae
   individuals:
-    - fThaAma1
+    - short_name: fThaAma1
   image:
   image_license:
   genome_size:

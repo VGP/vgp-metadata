@@ -8,7 +8,7 @@ species:
   family:
     name: Scyliorhinidae
   individuals:
-    - sScyCan1
+    - short_name: sScyCan1
   image:
   image_license:
   genome_size:

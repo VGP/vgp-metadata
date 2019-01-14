@@ -8,7 +8,7 @@ species:
   family:
     name: Felidae
   individuals:
-    - mLynCan4
+    - short_name: mLynCan4
   image: /assets/images/Lynx_canadensis.jpg
   image_license: unknown
   genome_size: 2471525315

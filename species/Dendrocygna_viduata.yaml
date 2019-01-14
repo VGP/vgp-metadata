@@ -8,7 +8,7 @@ species:
   family:
     name: Anatidae
   individuals:
-    - bDenVid1
+    - short_name: bDenVid1
   image:
   image_license:
   genome_size:

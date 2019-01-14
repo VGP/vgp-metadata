@@ -8,7 +8,7 @@ species:
   family:
     name: Anatidae
   individuals:
-    - bNomDom1
+    - short_name: bNomDom1
   image:
   image_license:
   genome_size:

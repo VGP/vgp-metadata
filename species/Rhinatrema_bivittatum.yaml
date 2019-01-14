@@ -8,7 +8,7 @@ species:
   family:
     name: Rhinatrematidae
   individuals:
-    - aRhiBiv1
+    - short_name: aRhiBiv1
   image: /assets/images/frog.png
   image_license: unknown
   genome_size: 5067838282

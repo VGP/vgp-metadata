@@ -8,7 +8,7 @@ species:
   family:
     name: Zeidae
   individuals:
-    - fZeuFab1
+    - short_name: fZeuFab1
   image:
   image_license:
   genome_size:

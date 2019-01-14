@@ -8,7 +8,7 @@ species:
   family:
     name: Cariamidae
   individuals:
-    - bCarCri1
+    - short_name: bCarCri1
   image:
   image_license:
   genome_size:

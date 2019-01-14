@@ -8,7 +8,7 @@ species:
   family:
     name: Rajidae
   individuals:
-    - sAmbRad1
+    - short_name: sAmbRad1
   image: /assets/images/Amblyraja_radiata.jpg
   image_license: unknown
   genome_size: 2072923533

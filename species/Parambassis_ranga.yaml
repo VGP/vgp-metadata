@@ -8,7 +8,7 @@ species:
   family:
     name: Ambassidae
   individuals:
-    - fParRan2
+    - short_name: fParRan2
   image:
   image_license:
   genome_size:

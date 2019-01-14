@@ -8,7 +8,7 @@ species:
   family:
     name: Dermochelyidae
   individuals:
-    - rDerCor1
+    - short_name: rDerCor1
   image:
   image_license:
   genome_size:

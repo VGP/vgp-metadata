@@ -8,7 +8,7 @@ species:
   family:
     name: Sparidae
   individuals:
-    - fSpaAur1
+    - short_name: fSpaAur1
   image:
   image_license:
   genome_size:

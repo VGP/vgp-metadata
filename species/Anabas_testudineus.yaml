@@ -8,7 +8,7 @@ species:
   family:
     name: Anabantoidei
   individuals:
-    - fAnaTes1
+    - short_name: fAnaTes1
   image: /assets/images/Anabas_testudineus.jpg
   image_license: unknown
   genome_size: 662696525

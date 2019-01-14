@@ -8,7 +8,7 @@ species:
   family:
     name: Acanthisittidae
   individuals:
-    - bAcaChl1
+    - short_name: bAcaChl1
   image:
   image_license:
   genome_size:

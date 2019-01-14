@@ -8,7 +8,7 @@ species:
   family:
     name: Psittacidae
   individuals:
-    - bStrHab1
+    - short_name: bStrHab1
   image: /assets/images/Strigops_habroptilus.jpg
   image_license: unknown
   genome_size: 1193409022

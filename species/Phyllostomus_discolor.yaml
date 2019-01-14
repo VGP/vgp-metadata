@@ -8,7 +8,7 @@ species:
   family:
     name: Phyllostomidae
   individuals:
-    - mPhyDis1
+    - short_name: mPhyDis1
   image: /assets/images/Phyllostomus_discolor.jpg
   image_license: unknown
   genome_size: 2213798723

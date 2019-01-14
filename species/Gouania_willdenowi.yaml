@@ -8,7 +8,7 @@ species:
   family:
     name: Gobiesocidae
   individuals:
-    - fGouWil2
+    - short_name: fGouWil2
   image: /assets/images/fish.png
   image_license: unknown
   genome_size: 1182215999

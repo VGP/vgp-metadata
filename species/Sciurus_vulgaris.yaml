@@ -8,7 +8,7 @@ species:
   family:
     name: Sciuridae
   individuals:
-    - mSciVul1
+    - short_name: mSciVul1
   image:
   image_license:
   genome_size:

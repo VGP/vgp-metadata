@@ -8,7 +8,7 @@ species:
   family:
     name: Mastacembelidae
   individuals:
-    - fMasArm1
+    - short_name: fMasArm1
   image: /assets/images/Mastacembelus_armatus.jpg
   image_license: unknown
   genome_size: 756753344

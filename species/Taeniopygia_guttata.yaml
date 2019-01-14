@@ -8,8 +8,8 @@ species:
   family:
     name: Estrildidae
   individuals:
-    - bTaeGut1
-    - bTaeGut2:
+    - short_name: bTaeGut1
+    - short_name: bTaeGut2
   image: /assets/images/Taeniopygia_guttata.jpg
   image_license: unknown
   genome_size: 1035611271

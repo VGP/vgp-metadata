@@ -8,7 +8,7 @@ species:
   family:
     name: Salmonidae
   individuals:
-    - fSalTru1
+    - short_name: fSalTru1
   image:
   image_license:
   genome_size:
