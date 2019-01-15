@@ -1,0 +1,15 @@
+species:
+  short_name: fSclFor
+  name: Scleropages formosus
+  taxon_id: 113540
+  common_name: golden arowana
+  order:
+    name: Osteoglossiformes
+  family:
+    name: Osteoglossidae
+  individuals:
+    - short_name: fSclFor1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

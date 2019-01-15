@@ -1,0 +1,15 @@
+species:
+  short_name: fSynAcu
+  name: Syngnathus acus
+  taxon_id: 161584
+  common_name: greater pipefish
+  order:
+    name: Syngnathiformes
+  family:
+    name: Syngnathidae
+  individuals:
+    - short_name: fSynAcu1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

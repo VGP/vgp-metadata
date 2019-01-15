@@ -1,0 +1,15 @@
+species:
+  short_name: fSphaOr
+  name: Sphaeramia orbicularis
+  taxon_id: 375764
+  common_name: orbiculate cardinalfish
+  order:
+    name: Kurtiformes
+  family:
+    name: Apogonidae
+  individuals:
+    - short_name: fSphaOr1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

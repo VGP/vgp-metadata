@@ -1,0 +1,15 @@
+species:
+  short_name: fSalaFa
+  name: Salarias fasciatus
+  taxon_id: 181472
+  common_name: jewelled blenny
+  order:
+    name: Blenniiformes
+  family:
+    name: Blenniidae
+  individuals:
+    - short_name: fSalaFa1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

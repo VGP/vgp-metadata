@@ -1,0 +1,15 @@
+species:
+  short_name: mLutLut
+  name: Lutra lutra
+  taxon_id: 9657
+  common_name: European otter
+  order:
+    name: Carnivora
+  family:
+    name: Mustelidae
+  individuals:
+    - short_name: mLutLut1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

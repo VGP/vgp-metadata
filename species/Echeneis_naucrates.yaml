@@ -1,0 +1,15 @@
+species:
+  short_name: fEcheNa
+  name: Echeneis naucrates
+  taxon_id: 173247
+  common_name: live sharksucker
+  order:
+    name: Carangiformes
+  family:
+    name: Echeneidae
+  individuals:
+    - short_name: fEcheNa1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

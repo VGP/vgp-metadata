@@ -1,0 +1,15 @@
+species:
+  short_name: aGeoSer
+  name: Geotrypetes seraphini
+  taxon_id: 260995
+  common_name: Gaboon caecilian
+  order:
+    name: Apoda
+  family:
+    name: Dermophiidae
+  individuals:
+    - short_name: aGeoSer1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

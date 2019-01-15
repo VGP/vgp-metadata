@@ -1,0 +1,15 @@
+species:
+  short_name: aMicUni
+  name: Microcaecilia unicolor
+  taxon_id: 1415580
+  common_name: tiny Cayenne caecilian
+  order:
+    name: Apoda
+  family:
+    name: Siphonopidae
+  individuals:
+    - short_name: aMicUni1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:
