@@ -1,14 +1,14 @@
 species:
-  short_name: fParRan
-  name: Parambassis ranga
-  taxon_id: 210632
-  common_name: Indian glassy fish
+  short_name: fMyrMur
+  name: Myripristis murdjan
+  taxon_id: 586833
+  common_name: pinecone soldierfish
   order:
-    name: Ovalentaria
+    name: Holocentriformes
   family:
-    name: Ambassidae
+    name: Holocentridae
   individuals:
-    - short_name: fParRan2
+    - short_name: fMyrMur1
   image:
   image_license:
   genome_size:
