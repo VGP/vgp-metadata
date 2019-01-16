@@ -6,7 +6,7 @@ species:
   order:
     name: Anabantiformes
   family:
-    name: Anabantoidei
+    name: Anabantidae
   individuals:
     - short_name: fAnaTes1
   image: /assets/images/Anabas_testudineus.jpg

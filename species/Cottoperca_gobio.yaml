@@ -6,7 +6,7 @@ species:
   order:
     name: Perciformes
   family:
-    name: Notothenioidei
+    name: Bovichtidae
   individuals:
     - short_name: fCotGob2
     - short_name: fCotGob3
