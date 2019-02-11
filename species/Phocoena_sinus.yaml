@@ -1,0 +1,15 @@
+species:
+  common_name: Vaquita
+  family:
+    name: Phocoenidae
+  genome_size: 3000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mPhoSin1
+  name: Phocoena sinus
+  order:
+    name: Artiodactyla
+  short_name: mPhoSin
+  taxon_id: 42100

@@ -1,0 +1,15 @@
+species:
+  common_name: Spotty wrasse
+  family:
+    name: Labridae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: fNotCel1
+  name: Notolabrus celidotus
+  order:
+    name: Perciformes
+  short_name: fNotCel
+  taxon_id: 1203425

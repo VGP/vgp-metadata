@@ -1,0 +1,15 @@
+species:
+  common_name: Sea lamprey
+  family:
+    name: Petromyzontidae
+  genome_size: 1500000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: kPetMar1
+  name: Petromyzon marinus
+  order:
+    name: Petromyzontiformes
+  short_name: kPetMar
+  taxon_id: 7757

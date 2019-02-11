@@ -1,0 +1,15 @@
+species:
+  common_name: Swainson's thrush
+  family:
+    name: Turdidae
+  genome_size: 1490000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bCatUst1
+  name: Catharus ustulatus
+  order:
+    name: Passeriformes
+  short_name: bCatUst
+  taxon_id: 91951

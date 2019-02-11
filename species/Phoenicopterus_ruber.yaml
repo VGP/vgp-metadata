@@ -1,0 +1,15 @@
+species:
+  common_name: American flamingo
+  family:
+    name: Phoenicopteridae
+  genome_size: 1250000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bPhoRub1
+  name: Phoenicopterus ruber
+  order:
+    name: Phoenicopteriformes
+  short_name: bPhoRub
+  taxon_id: 9217

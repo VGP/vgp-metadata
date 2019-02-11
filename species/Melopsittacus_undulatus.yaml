@@ -1,0 +1,15 @@
+species:
+  common_name: Budgerigar
+  family:
+    name: Psittaculidae
+  genome_size: 1230000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bMelUnd1
+  name: Melopsittacus undulatus
+  order:
+    name: Psittaciformes
+  short_name: bMelUnd
+  taxon_id: 13146

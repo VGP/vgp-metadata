@@ -1,0 +1,15 @@
+species:
+  common_name: Yellow-throated sandgrouse
+  family:
+    name: Pteroclidae
+  genome_size: 1070000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bPteGut1
+  name: Pterocles gutturalis
+  order:
+    name: Pterocliformes
+  short_name: bPteGut
+  taxon_id: 240206

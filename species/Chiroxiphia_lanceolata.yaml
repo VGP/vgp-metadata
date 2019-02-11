@@ -1,0 +1,15 @@
+species:
+  common_name: Lance-tailed manakin
+  family:
+    name: Pipridae
+  genome_size: 1230000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bChiLan1
+  name: Chiroxiphia lanceolata
+  order:
+    name: Passeriformes
+  short_name: bChiLan
+  taxon_id: 296741

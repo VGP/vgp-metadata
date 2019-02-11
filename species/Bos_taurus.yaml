@@ -1,0 +1,15 @@
+species:
+  common_name: cattle
+  family:
+    name: Bovidae
+  genome_size: 2700000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mBosTau1
+  name: Bos taurus
+  order:
+    name: Cetartiodactyla
+  short_name: mBosTau
+  taxon_id: 9913

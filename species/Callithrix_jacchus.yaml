@@ -1,0 +1,15 @@
+species:
+  common_name: Common marmoset
+  family:
+    name: Callitrichidae
+  genome_size: 3430000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mCalJac1
+  name: Callithrix jacchus
+  order:
+    name: Primates
+  short_name: mCalJac
+  taxon_id: 9483

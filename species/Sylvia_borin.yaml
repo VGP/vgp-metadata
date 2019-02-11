@@ -1,0 +1,15 @@
+species:
+  common_name: Garden warbler
+  family:
+    name: Sylviidae
+  genome_size: 1200000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bSylBor1
+  name: Sylvia borin
+  order:
+    name: Passeriformes
+  short_name: bSylBor
+  taxon_id: 1471886

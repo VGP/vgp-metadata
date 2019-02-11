@@ -1,0 +1,15 @@
+species:
+  common_name: Egyptian fruit bat
+  family:
+    name: Pteropodidae
+  genome_size: 2109999999
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mRouAeg1
+  name: Rousettus aegyptiacus
+  order:
+    name: Chiroptera
+  short_name: mRouAeg
+  taxon_id: 9407

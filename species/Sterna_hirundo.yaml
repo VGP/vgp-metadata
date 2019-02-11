@@ -1,0 +1,15 @@
+species:
+  common_name: Common tern
+  family:
+    name: Laridae
+  genome_size: 1400000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bSteHir1
+  name: Sterna hirundo
+  order:
+    name: Charadriiformes
+  short_name: bSteHir
+  taxon_id: 108405

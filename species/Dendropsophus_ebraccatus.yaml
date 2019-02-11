@@ -1,0 +1,15 @@
+species:
+  common_name: Hourglass treefrog
+  family:
+    name: Hylidae
+  genome_size: 2520000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: aDenEbr1
+  name: Dendropsophus ebraccatus
+  order:
+    name: Anura
+  short_name: aDenEbr
+  taxon_id: 150705

@@ -1,0 +1,16 @@
+species:
+  common_name: Smalltooth sawfish
+  family:
+    name: Pristidae
+  genome_size: 2800000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: sPriPec1
+  - short_name: sPriPec2
+  name: Pristis pectinata
+  order:
+    name: Pristiformes
+  short_name: sPriPec
+  taxon_id: 685728

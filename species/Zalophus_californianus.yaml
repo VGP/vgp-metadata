@@ -1,0 +1,15 @@
+species:
+  common_name: California sea lion
+  family:
+    name: Otariidae
+  genome_size: 3150000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mZalCal1
+  name: Zalophus californianus
+  order:
+    name: Carnivora
+  short_name: mZalCal
+  taxon_id: 9704

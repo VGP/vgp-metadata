@@ -1,0 +1,15 @@
+species:
+  common_name: Carmine bee-eater
+  family:
+    name: Meropidae
+  genome_size: 1300000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bMerNub1
+  name: Merops nubicus
+  order:
+    name: Coraciiformes
+  short_name: bMerNub
+  taxon_id: 57421

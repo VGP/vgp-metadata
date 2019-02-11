@@ -1,0 +1,15 @@
+species:
+  common_name: Red-crested turaco
+  family:
+    name: Musophagidae
+  genome_size: 1170000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bTauEry1
+  name: Tauraco erythrolophus
+  order:
+    name: Musophagiformes
+  short_name: bTauEry
+  taxon_id: 121530

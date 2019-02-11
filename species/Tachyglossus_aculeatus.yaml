@@ -1,0 +1,15 @@
+species:
+  common_name: Short-beaked echidna
+  family:
+    name: Tachyglossidae
+  genome_size: 2890000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mTacAcu1
+  name: Tachyglossus aculeatus
+  order:
+    name: Monotremata
+  short_name: mTacAcu
+  taxon_id: 9261

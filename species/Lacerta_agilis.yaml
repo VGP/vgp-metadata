@@ -1,0 +1,15 @@
+species:
+  common_name: Sand lizard
+  family:
+    name: Lacertidae
+  genome_size: 2000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: rLacAgi1
+  name: Lacerta agilis
+  order:
+    name: Squamata
+  short_name: rLacAgi
+  taxon_id: 80427
