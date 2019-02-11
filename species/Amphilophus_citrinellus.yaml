@@ -1,0 +1,15 @@
+species:
+  common_name: Midas cichlid
+  family:
+    name: Cichlidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: fAmpCit1
+  name: Amphilophus citrinellus
+  order:
+    name: Cichliformes
+  short_name: fAmpCit
+  taxon_id: 61819

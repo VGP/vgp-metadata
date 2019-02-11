@@ -1,0 +1,15 @@
+species:
+  common_name: Tufted duck
+  family:
+    name: Anatidae
+  genome_size: 1200000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bAytFul2
+  name: Aythya fuligula
+  order:
+    name: Anseriformes
+  short_name: bAytFul
+  taxon_id: 219594

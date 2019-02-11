@@ -1,0 +1,15 @@
+species:
+  common_name: Red devil cichlid
+  family:
+    name: Cichlidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: fAmpLab1
+  name: Amphilophus labiatus
+  order:
+    name: Cichliformes
+  short_name: fAmpLab
+  taxon_id: 61820
