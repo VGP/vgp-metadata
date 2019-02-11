@@ -1,0 +1,15 @@
+species:
+  common_name: Razorbill
+  family:
+    name: Alcidae
+  genome_size: 1200000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bAlcTor1
+  name: Alca torda
+  order:
+    name: Charadriiformes
+  short_name: bAlcTor
+  taxon_id: 28689
