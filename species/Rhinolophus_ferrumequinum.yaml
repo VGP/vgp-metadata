@@ -9,7 +9,7 @@ species:
     name: Rhinolophidae
   individuals:
     - short_name: mRhiFer1
-  image: /assets/images/bat.png
-  image_license: unknown
+  image: 
+  image_license: "CC BY-NC-SA 2.0 Ján Svetlík (flickr)"
   genome_size: 2369916842
   genome_size_method:

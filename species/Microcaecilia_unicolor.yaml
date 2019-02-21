@@ -9,7 +9,7 @@ species:
     name: Siphonopidae
   individuals:
     - short_name: aMicUni1
-  image:
-  image_license:
+  image: /assets/images/frog.png
+  image_license: Apple
   genome_size:
   genome_size_method:

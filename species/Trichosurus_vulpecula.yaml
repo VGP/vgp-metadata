@@ -4,8 +4,8 @@ species:
     name: Phalangeridae
   genome_size: 3000000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY 2.0 Donald Hobern (flickr)"
   individuals:
   - short_name: mTriVul1
   name: Trichosurus vulpecula

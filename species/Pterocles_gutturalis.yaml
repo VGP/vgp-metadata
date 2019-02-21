@@ -4,8 +4,8 @@ species:
     name: Pteroclidae
   genome_size: 1070000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-SA 3.0 Yathin S Krishnappa (wikimedia)"
   individuals:
   - short_name: bPteGut1
   name: Pterocles gutturalis

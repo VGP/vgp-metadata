@@ -4,8 +4,8 @@ species:
     name: Pleuronectidae
   genome_size: 1000000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "public domain"
   individuals:
   - short_name: fHipHip1
   name: Hippoglossus hippoglossus

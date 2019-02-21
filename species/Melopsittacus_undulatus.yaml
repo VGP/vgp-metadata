@@ -4,8 +4,8 @@ species:
     name: Psittaculidae
   genome_size: 1230000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-SA 3.0 Atlanta Zoo (wikimedia)"
   individuals:
   - short_name: bMelUnd1
   name: Melopsittacus undulatus

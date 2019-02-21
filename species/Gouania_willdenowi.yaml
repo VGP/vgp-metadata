@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: fGouWil2
   image: /assets/images/fish.png
-  image_license: unknown
+  image_license: Apple
   genome_size: 1182215999
   genome_size_method:

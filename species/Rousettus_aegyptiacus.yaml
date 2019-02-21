@@ -4,8 +4,8 @@ species:
     name: Pteropodidae
   genome_size: 2109999999
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-SA 3.0 Вых Пыхманн (wikimedia)"
   individuals:
   - short_name: mRouAeg1
   name: Rousettus aegyptiacus

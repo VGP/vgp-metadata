@@ -4,8 +4,8 @@ species:
     name: Pipridae
   genome_size: 1230000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-SA 2.0 Dario Sanches (wikimedia)"
   individuals:
   - short_name: bChiLan1
   name: Chiroxiphia lanceolata

@@ -4,8 +4,8 @@ species:
     name: Pristidae
   genome_size: 2800000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-NC-ND 2.0 myfwc (flickr)"
   individuals:
   - short_name: sPriPec1
   - short_name: sPriPec2

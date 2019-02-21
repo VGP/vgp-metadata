@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: sAmbRad1
   image: /assets/images/Amblyraja_radiata.jpg
-  image_license: unknown
+  image_license: "public domain"
   genome_size: 2072923533
   genome_size_method:

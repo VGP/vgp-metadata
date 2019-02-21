@@ -4,8 +4,8 @@ species:
     name: Phocoenidae
   genome_size: 3000000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "public domain"
   individuals:
   - short_name: mPhoSin1
   name: Phocoena sinus

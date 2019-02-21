@@ -4,8 +4,8 @@ species:
     name: Meropidae
   genome_size: 1300000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-SA 3.0 Luc Viatour (wikimedia)"
   individuals:
   - short_name: bMerNub1
   name: Merops nubicus

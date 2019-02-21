@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: rDerCor1
   image:
-  image_license:
+  image_license: "public domain"
   genome_size:
   genome_size_method:

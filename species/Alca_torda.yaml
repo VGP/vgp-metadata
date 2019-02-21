@@ -4,8 +4,8 @@ species:
     name: Alcidae
   genome_size: 1200000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY 2.0 Paul Wordingham (flickr)"
   individuals:
   - short_name: bAlcTor1
   name: Alca torda

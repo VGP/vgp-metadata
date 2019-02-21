@@ -9,7 +9,7 @@ species:
     name: Denticipitidae
   individuals:
     - short_name: fDenClu1
-  image:
-  image_license:
+  image: /assets/images/fish.png
+  image_license: Apple
   genome_size:
   genome_size_method:

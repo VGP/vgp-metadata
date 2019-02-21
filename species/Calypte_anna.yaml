@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: bCalAnn1
   image: /assets/images/Calypte_anna.jpg
-  image_license: unknown
+  image_license: "public domain"
   genome_size: 1116472572
   genome_size_method:

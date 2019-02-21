@@ -9,7 +9,7 @@ species:
     name: Batrachoididae
   individuals:
     - short_name: fThaAma1
-  image:
-  image_license:
+  image: /assets/images/fish.png
+  image_license: Apple
   genome_size:
   genome_size_method:

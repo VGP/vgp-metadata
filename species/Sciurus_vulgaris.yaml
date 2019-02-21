@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: mSciVul1
   image:
-  image_license:
+  image_license: "CC BY-SA 3.0 RedR (wikimedia)"
   genome_size:
   genome_size_method:

@@ -4,8 +4,8 @@ species:
     name: Anatidae
   genome_size: 1200000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-SA 3.0 Charles J Sharp (wikimedia)"
   individuals:
   - short_name: bAytFul2
   name: Aythya fuligula

@@ -4,8 +4,8 @@ species:
     name: Bovidae
   genome_size: 2700000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "public domain"
   individuals:
   - short_name: mBosTau1
   name: Bos taurus

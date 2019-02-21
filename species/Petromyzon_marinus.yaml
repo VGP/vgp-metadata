@@ -4,8 +4,8 @@ species:
     name: Petromyzontidae
   genome_size: 1500000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-SA 2.0 T. Lawrence (flickr)"
   individuals:
   - short_name: kPetMar1
   name: Petromyzon marinus

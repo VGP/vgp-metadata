@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: aRhiBiv1
   image: /assets/images/frog.png
-  image_license: unknown
+  image_license: Apple
   genome_size: 5067838282
   genome_size_method:

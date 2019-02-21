@@ -4,8 +4,8 @@ species:
     name: Sylviidae
   genome_size: 1200000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: 
+  image_license: "CC BY-NC-SA 2.0 Steve Garvie (flickr)"
   individuals:
   - short_name: bSylBor1
   name: Sylvia borin
