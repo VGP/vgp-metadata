@@ -1,0 +1,15 @@
+species:
+  short_name: mBalMus1
+  name: Balaenoptera musculus
+  taxon_id: 9771
+  common_name: Blue whale
+  order:
+    name: Cetacea
+  family:
+    name: Balaenopteridae
+  individuals:
+    - short_name: mBalMus1
+  image: 
+  image_license: 
+  genome_size: 3093707188
+  genome_size_method: genomescope (k=31)
