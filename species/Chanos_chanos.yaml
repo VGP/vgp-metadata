@@ -1,0 +1,15 @@
+species:
+  short_name: fChaCha
+  name: Chanos chanos
+  taxon_id: 29144
+  common_name: milkfish
+  order:
+    name: Gonorynchiformes
+  family:
+    name: Chanidae
+  individuals:
+    - short_name: fChaCha1
+  image: 
+  image_license: 
+  genome_size: 
+  genome_size_method:

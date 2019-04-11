@@ -1,0 +1,15 @@
+species:
+  short_name: aRanTem
+  name: Rana temporaria
+  taxon_id: 8407
+  common_name: common frog
+  order:
+    name: Anura
+  family:
+    name: Ranidae
+  individuals:
+    - short_name: aRanTem1
+  image: 
+  image_license: 
+  genome_size: 
+  genome_size_method:

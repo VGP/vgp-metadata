@@ -1,0 +1,16 @@
+species:
+  short_name: aBufBuf
+  name: Bufo bufo
+  taxon_id: 8384
+  common_name: common toad
+  order:
+    name: Anura
+  family:
+    name: Bufonidae
+  individuals:
+    - short_name: aBufBuf1
+      biosample_id: SAMEA5574015
+  image: 
+  image_license: 
+  genome_size: 
+  genome_size_method:

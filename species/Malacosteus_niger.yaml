@@ -1,0 +1,15 @@
+species:
+  short_name: fMalNig
+  name: Malacosteus niger
+  taxon_id: 76143
+  common_name: stoplight loosejaw
+  order:
+    name: Stomiiformes
+  family:
+    name: Stomiidae
+  individuals:
+    - short_name: fMalNig1
+  image: 
+  image_license: 
+  genome_size: 
+  genome_size_method:

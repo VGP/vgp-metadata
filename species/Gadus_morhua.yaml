@@ -1,0 +1,15 @@
+species:
+  short_name: fGadMor
+  name: Gadus morhua
+  taxon_id: 8049
+  common_name: Atlantic cod
+  order:
+    name: Gadiformes
+  family:
+    name: Gadidae
+  individuals:
+    - short_name: fGadMor1
+  image: 
+  image_license: 
+  genome_size: 
+  genome_size_method:

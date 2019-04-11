@@ -1,0 +1,24 @@
+species:
+  short_name: fAciRut
+  name: Acipenser ruthenus
+  taxon_id: 7906
+  common_name: sterlet
+  order:
+    name: Acipenseriformes
+  family:
+    name: Acipenseridae
+  individuals:
+    - short_name: fAciRut1
+      biosample_id: SAMEA5572860
+      sex: female
+    - short_name: fAciRut2
+      biosample_id: SAMEA5572861
+      sex: male
+    - short_name: fAciRut3
+      biosample_id: SAMEA5572864
+      mother: fAciRut1
+      father: fAciRut2
+  image: 
+  image_license: 
+  genome_size: 
+  genome_size_method:
