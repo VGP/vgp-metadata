@@ -1,0 +1,15 @@
+species:
+  common_name: African grass rat
+  family:
+    name: Muridae
+  genome_size: 3400000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mArvNil1
+  name: Arvicanthis niloticus
+  order:
+    name: Rodentia
+  short_name: mArvNil
+  taxon_id: 61156

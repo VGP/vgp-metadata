@@ -1,0 +1,15 @@
+species:
+  common_name: Korean giant-fin mudskipper
+  family:
+    name: Gobiidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: fPerMag1
+  name: Periophthalmus magnuspinnatus
+  order:
+    name: Gobiiformes
+  short_name: fPerMag
+  taxon_id: 409849

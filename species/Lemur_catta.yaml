@@ -1,0 +1,15 @@
+species:
+  common_name: Ring-tailed lemur
+  family:
+    name: Lemuridae
+  genome_size: 3300000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mLemCat1
+  name: Lemur catta
+  order:
+    name: Lemuriformes
+  short_name: mLemCat
+  taxon_id: 9447

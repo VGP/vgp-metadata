@@ -1,0 +1,15 @@
+species:
+  common_name: New Caledonian crow
+  family:
+    name: Corvidae
+  genome_size: 1250000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bCorMon1
+  name: Corvus moneduloides
+  order:
+    name: Passeriformes
+  short_name: bCorMon
+  taxon_id: 1196302

@@ -1,0 +1,15 @@
+species:
+  common_name: Mexican gopher tortoise
+  family:
+    name: Testudinidae
+  genome_size: 2500000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: rGopFla2
+  name: Gopherus flavomarginatus
+  order:
+    name: Testudines
+  short_name: rGopFla
+  taxon_id: 286002

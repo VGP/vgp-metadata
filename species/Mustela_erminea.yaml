@@ -1,0 +1,15 @@
+species:
+  common_name: stoat
+  family:
+    name: Mustelidae
+  genome_size: 3080000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mMusErm1
+  name: Mustela erminea
+  order:
+    name: Carnivora
+  short_name: mMusErm
+  taxon_id: 36723
