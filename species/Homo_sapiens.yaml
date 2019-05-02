@@ -1,0 +1,17 @@
+species:
+  common_name: human
+  family:
+    name: Hominidae
+  genome_size: 3200000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mHomSap3
+  - short_name: mHomSap1
+  - short_name: mHomSap2
+  name: Homo sapiens
+  order:
+    name: Primates
+  short_name: mHomSap
+  taxon_id: 9606
