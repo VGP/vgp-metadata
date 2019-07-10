@@ -1,0 +1,15 @@
+species:
+  common_name: grey crowned-crane
+  family:
+    name: Gruidae
+  genome_size: 1450000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bBalReg1
+  name: Balearica regulorum
+  order:
+    name: Gruiformes
+  short_name: bBalReg
+  taxon_id: 925459
