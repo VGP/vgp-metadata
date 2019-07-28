@@ -1,0 +1,15 @@
+species:
+  common_name: chicken
+  family:
+    name: Phasianidae
+  genome_size: 1210000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bGalGal1
+  name: Gallus gallus
+  order:
+    name: Galliformes
+  short_name: bGalGal
+  taxon_id: 9031

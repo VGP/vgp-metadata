@@ -1,0 +1,15 @@
+species:
+  common_name: great potoo
+  family:
+    name: Nyctibiidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bNycGra1
+  name: Nyctibius grandis
+  order:
+    name: Caprimulgiformes
+  short_name: bNycGra
+  taxon_id: 48427

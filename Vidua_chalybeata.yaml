@@ -1,0 +1,15 @@
+species:
+  common_name: village indigobird
+  family:
+    name: Viduidae
+  genome_size: 1160000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bVidCha1
+  name: Vidua chalybeata
+  order:
+    name: Passeriformes
+  short_name: bVidCha
+  taxon_id: 81927

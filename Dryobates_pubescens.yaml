@@ -1,0 +1,15 @@
+species:
+  common_name: Downy woodpecker
+  family:
+    name: Picidae
+  genome_size: 1400000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bDryPub1
+  name: Dryobates pubescens
+  order:
+    name: Piciformes
+  short_name: bDryPub
+  taxon_id: 118200

@@ -1,0 +1,15 @@
+species:
+  common_name: bottlenose dolphin
+  family:
+    name: Delphinidae
+  genome_size: 3200000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mTurTru1
+  name: Tursiops truncatus
+  order:
+    name: Artiodactyla
+  short_name: mTurTru
+  taxon_id: 9739
