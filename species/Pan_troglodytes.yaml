@@ -1,0 +1,15 @@
+species:
+  common_name: chimpanzee
+  family:
+    name: Hominidae
+  genome_size: 3200000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: mPanTro1
+  name: Pan troglodytes
+  order:
+    name: Primates
+  short_name: mPanTro
+  taxon_id: 9598
