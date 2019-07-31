@@ -4,8 +4,8 @@ species:
     name: Gobiidae
   genome_size: 1000000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: /assets/images/Periophthalmus_magnuspinnatus.jpg
+  image_license: CC BY-SA 4.0 Chul Lee
   individuals:
   - short_name: fPerMag1
   name: Periophthalmus magnuspinnatus
