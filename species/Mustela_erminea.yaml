@@ -4,8 +4,8 @@ species:
     name: Mustelidae
   genome_size: 3080000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: /assets/images/Mustela_erminea.jpg
+  image_license: Copyright Patrick Garvey, used with permission
   individuals:
   - short_name: mMusErm1
   name: Mustela erminea
