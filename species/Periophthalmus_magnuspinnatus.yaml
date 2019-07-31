@@ -5,7 +5,7 @@ species:
   genome_size: 1000000000
   genome_size_method: null
   image: /assets/images/Periophthalmus_magnuspinnatus.jpg
-  image_license: CC BY-SA 4.0 Chul Lee
+  image_license: Copyright Chul Lee, used with permission
   individuals:
   - short_name: fPerMag1
   name: Periophthalmus magnuspinnatus
