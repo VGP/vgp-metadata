@@ -9,7 +9,7 @@ species:
     name: Rhinatrematidae
   individuals:
     - short_name: aRhiBiv1
-  image: /assets/images/frog.png
-  image_license: Apple
+  image: /assets/images/Rhinatrema_bivittatum.jpg
+  image_license: Copyright Stuart V Nielsen, used with permission
   genome_size: 5067838282
-  genome_size_method:
+  genome_size_method: genomescope k=31
