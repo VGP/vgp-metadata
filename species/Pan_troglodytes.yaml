@@ -4,8 +4,8 @@ species:
     name: Hominidae
   genome_size: 3200000000
   genome_size_method: null
-  image: null
-  image_license: unknown
+  image: /assets/images/Pan_troglodytes.jpg
+  image_license: CC BY-SA 2.0 Bernard Dupont (wikipedia)
   individuals:
   - short_name: mPanTro1
   name: Pan troglodytes
