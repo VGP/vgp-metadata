@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: fDenClu1
   image: /assets/images/Denticeps_clupeoides.jpg
-  image_license: Copyright Ralf Britz, with permission
+  image_license: Copyright Ralf Britz/NHM, used with permission
   genome_size:
   genome_size_method:
