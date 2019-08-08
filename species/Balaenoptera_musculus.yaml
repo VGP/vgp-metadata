@@ -2,7 +2,7 @@ species:
   short_name: mBalMus
   name: Balaenoptera musculus
   taxon_id: 9771
-  common_name: Blue whale
+  common_name: blue whale
   order:
     name: Cetacea
   family:

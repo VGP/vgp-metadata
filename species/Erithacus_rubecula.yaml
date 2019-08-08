@@ -1,0 +1,15 @@
+species:
+  short_name: bEriRub
+  name: Erithacus rubecula
+  taxon_id: 37610
+  common_name: European robin
+  order:
+    name: Passeriformes
+  family:
+    name: Muscicapidae
+  individuals:
+    - short_name: bEriRub2
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

@@ -1,0 +1,15 @@
+species:
+  short_name: mPipPip
+  name: Pipistrellus pipistrellus
+  taxon_id: 59474
+  common_name: common pipistrelle
+  order:
+    name: Chiroptera
+  family:
+    name: Vespertilionidae
+  individuals:
+    - short_name: mPipPip1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

@@ -1,0 +1,15 @@
+species:
+  short_name: mRatNor
+  name: Rattus norvegicus
+  taxon_id: 10116
+  common_name: Norway rat
+  order:
+    name: Rodentia
+  family:
+    name: Muridae
+  individuals:
+    - short_name: mRatNor1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

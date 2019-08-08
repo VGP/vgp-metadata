@@ -1,0 +1,15 @@
+species:
+  short_name: eAstRub
+  name: Asterias rubens
+  taxon_id: 7604
+  common_name: common starfish
+  order:
+    name: Forcipulatida
+  family:
+    name: Asteriidae
+  individuals:
+    - short_name: eAstRub1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:

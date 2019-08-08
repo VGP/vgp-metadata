@@ -1,0 +1,15 @@
+species:
+  short_name: mSciCar
+  name: Sciurus carolinensis
+  taxon_id: 30640
+  common_name: grey squirrel
+  order:
+    name: Rodentia
+  family:
+    name: Sciuridae
+  individuals:
+    - short_name: mSciCar1
+  image:
+  image_license:
+  genome_size:
+  genome_size_method:
