@@ -10,6 +10,6 @@ species:
   individuals:
     - short_name: mSciCar1
   image:
-  image_license:
+  image_license: CC BY 2.0, Judy Gallagher (flickr)
   genome_size:
   genome_size_method:
