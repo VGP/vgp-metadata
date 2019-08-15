@@ -5,7 +5,7 @@ species:
   genome_size: 1400000000
   genome_size_method: null
   image: null
-  image_license: unknown
+  image_license: Copyright Falcon Genome Project, Al-Gannas Qatari Society, used with permission
   individuals:
   - short_name: bFalRus1
   name: Falco rusticolus
