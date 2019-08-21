@@ -5,7 +5,7 @@ species:
   genome_size: 3400000000
   genome_size_method: null
   image: null
-  image_license: unknown
+  image_license: Copyright Huishi Toh, used with permission
   individuals:
   - short_name: mArvNil1
   name: Arvicanthis niloticus
