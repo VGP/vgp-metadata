@@ -1,0 +1,15 @@
+species:
+  short_name: mArvAmp
+  name: Arvicola amphibius
+  taxon_id: 1047088
+  common_name: European water vole
+  order:
+    name: Rodentia
+  family:
+    name: Cricetidae
+  individuals:
+    - short_name: mArvAmp1
+  image:
+  image_license: 
+  genome_size:
+  genome_size_method:
