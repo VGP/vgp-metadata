@@ -11,5 +11,5 @@ species:
     - short_name: bCarCri1
   image:
   image_license: "CC BY-SA 3.0 Olaf Oliviero Riemer (wikimedia)"
-  genome_size:
+  genome_size: 1500000000
   genome_size_method:
