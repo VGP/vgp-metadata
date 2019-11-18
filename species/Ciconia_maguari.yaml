@@ -1,0 +1,15 @@
+species:
+  common_name: maguari stork
+  family:
+    name: Ciconiidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bCicMag1
+  name: Ciconia maguari
+  order:
+    name: Ciconiiformes
+  short_name: bCicMag
+  taxon_id: 52777

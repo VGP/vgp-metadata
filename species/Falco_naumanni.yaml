@@ -1,0 +1,17 @@
+species:
+  common_name: lesser kestrel
+  family:
+    name: Falconidae
+  genome_size: 1400000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bFalNau1
+  - short_name: bFalNau2
+  - short_name: bFalNau3
+  name: Falco naumanni
+  order:
+    name: Falconiformes
+  short_name: bFalNau
+  taxon_id: 148594

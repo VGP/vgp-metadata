@@ -1,0 +1,15 @@
+species:
+  common_name: European golden plover
+  family:
+    name: Charadriidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bPluApr1
+  name: Pluvialis apricaria
+  order:
+    name: Charadriiformes
+  short_name: bPluApr
+  taxon_id: 670352
