@@ -4,7 +4,7 @@ species:
     name: Falconidae
   genome_size: 1350000000
   genome_size_method: kmers
-  image: null
+  image: /assets/images/Falco_naumanni.jpg
   image_license: Copyright Michele Mendi, used with permission
   individuals:
   - short_name: bFalNau1
