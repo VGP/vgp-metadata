@@ -2,10 +2,10 @@ species:
   common_name: lesser kestrel
   family:
     name: Falconidae
-  genome_size: 1400000000
-  genome_size_method: null
+  genome_size: 1350000000
+  genome_size_method: kmers
   image: null
-  image_license: unknown
+  image_license: Copyright Michele Mendi, used with permission
   individuals:
   - short_name: bFalNau1
   - short_name: bFalNau2
