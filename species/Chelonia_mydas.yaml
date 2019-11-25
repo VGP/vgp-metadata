@@ -1,0 +1,13 @@
+species:
+  common_name: Green sea turtle 
+  family:
+    name: Cheloniidae
+  image: 
+  image_license: "CC BY-SA 3.0, author:Christoph Schuetzenhofer (wikimedia)"
+  individuals:
+  - short_name: rCheMyd1
+  name: Chelonia Mydas
+  order:
+    name: Testudines
+  short_name: rCheMyd
+  taxon_id: 8469
