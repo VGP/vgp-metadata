@@ -1,0 +1,15 @@
+species:
+  common_name: honeycomb rockfish
+  family:
+    name: Sebastidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: fSebUmb1
+  name: Sebastes umbrosus
+  order:
+    name: Scorpaeniformes
+  short_name: fSebUmb
+  taxon_id: 72105

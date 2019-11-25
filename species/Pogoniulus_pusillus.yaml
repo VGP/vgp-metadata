@@ -1,0 +1,15 @@
+species:
+  common_name: Red-fronted tinkerbird
+  family:
+    name: Lybiidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bPogPus1
+  name: Pogoniulus pusillus
+  order:
+    name: Piciformes
+  short_name: bPogPus
+  taxon_id: 488313

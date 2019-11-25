@@ -1,0 +1,15 @@
+species:
+  common_name: whiskered treeswift
+  family:
+    name: Apodidae
+  genome_size: 1000000000
+  genome_size_method: null
+  image: null
+  image_license: unknown
+  individuals:
+  - short_name: bHemCom1
+  name: Hemiprocne comata
+  order:
+    name: Apodiformes
+  short_name: bHemCom
+  taxon_id: 243314
