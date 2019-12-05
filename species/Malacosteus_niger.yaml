@@ -9,7 +9,5 @@ species:
     name: Stomiidae
   individuals:
     - short_name: fMalNig1
-  image: 
-  image_license: Public domain (wikimedia)
   genome_size: 
   genome_size_method:

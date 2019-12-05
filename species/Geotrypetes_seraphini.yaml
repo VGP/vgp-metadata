@@ -9,7 +9,5 @@ species:
     name: Dermophiidae
   individuals:
     - short_name: aGeoSer1
-  image: /assets/images/frog.png
-  image_license: Apple
   genome_size:
   genome_size_method:

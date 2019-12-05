@@ -9,7 +9,5 @@ species:
     name: Gadidae
   individuals:
     - short_name: fGadMor1
-  image: 
-  image_license: CC BY-SA 4.0, Hans Hillewaert (wikimedia)
   genome_size: 
   genome_size_method:

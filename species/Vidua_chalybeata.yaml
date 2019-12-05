@@ -4,8 +4,6 @@ species:
     name: Viduidae
   genome_size: 1160000000
   genome_size_method: null
-  image: null
-  image_license: unknown
   individuals:
   - short_name: bVidCha1
   name: Vidua chalybeata

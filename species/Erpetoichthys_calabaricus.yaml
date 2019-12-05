@@ -9,7 +9,5 @@ species:
     name: Polypteridae
   individuals:
     - short_name: fErpCal1
-  image:
-  image_license: "CC BY-SA 3.0 Michał Zalewski (wikimedia)"
   genome_size:
   genome_size_method:

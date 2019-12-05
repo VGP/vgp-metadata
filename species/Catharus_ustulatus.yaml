@@ -4,8 +4,6 @@ species:
     name: Turdidae
   genome_size: 1490000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY 2.0 CheepShot (flickr)"
   individuals:
   - short_name: bCatUst1
   name: Catharus ustulatus

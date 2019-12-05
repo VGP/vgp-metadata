@@ -9,7 +9,5 @@ species:
     name: Parulidae
   individuals:
     - short_name: bGeoTri1
-  image:
-  image_license: "CC BY-SA 2.0 Dan Pancamo (flickr)"
   genome_size:1440000000
   genome_size_method:Feulgen Image Analysis Densitometry

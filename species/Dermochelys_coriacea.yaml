@@ -9,7 +9,5 @@ species:
     name: Dermochelyidae
   individuals:
     - short_name: rDerCor1
-  image:
-  image_license: "public domain"
   genome_size: 2500000000
   genome_size_method:

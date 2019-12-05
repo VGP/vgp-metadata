@@ -9,7 +9,5 @@ species:
     name: Ambassidae
   individuals:
     - short_name: fParRan2
-  image:
-  image_license: "CC BY-SA 2.5 opencage (wikimedia)"
   genome_size:
   genome_size_method:

@@ -4,8 +4,6 @@ species:
     name: Colubridae
   genome_size: 1900000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY-NC 2.0 J. Maughn (flickr)"
   individuals:
   - short_name: rThaEle1
   name: Thamnophis elegans

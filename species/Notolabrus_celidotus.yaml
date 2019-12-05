@@ -4,8 +4,6 @@ species:
     name: Labridae
   genome_size: 1000000000
   genome_size_method: null
-  image: /assets/images/fish.png
-  image_license: Apple
   individuals:
   - short_name: fNotCel1
   name: Notolabrus celidotus

@@ -9,7 +9,5 @@ species:
     name: Testudinidae
   individuals:
     - short_name: rGopEvg1
-  image: /assets/images/Gopherus_evgoodei.jpg
-  image_license: "CC BY 4.0 Edwards et al. (wikimedia)"
   genome_size: 2684436481
   genome_size_method:

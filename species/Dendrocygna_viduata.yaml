@@ -9,7 +9,5 @@ species:
     name: Anatidae
   individuals:
     - short_name: bDenVid1
-  image:
-  image_license: "CC BY-SA 3.0 Quartl (wikimedia)"
   genome_size:
   genome_size_method:

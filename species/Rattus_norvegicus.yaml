@@ -9,7 +9,5 @@ species:
     name: Muridae
   individuals:
     - short_name: mRatNor1
-  image:
-  image_license: CC BY-SA 2.0, Jean-Jacques Boujot (flickr)
   genome_size:
   genome_size_method:

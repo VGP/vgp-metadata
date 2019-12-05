@@ -4,8 +4,6 @@ species:
     name: Cichlidae
   genome_size: 1000000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY-SA 2.0 AtelierMonpli (wikimedia)"
   individuals:
   - short_name: fAmpLab1
   name: Amphilophus labiatus

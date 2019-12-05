@@ -4,8 +4,6 @@ species:
     name: Phoenicopteridae
   genome_size: 1250000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY 2.0 Paul Asman and Jill Lenoble (flickr)"
   individuals:
   - short_name: bPhoRub1
   name: Phoenicopterus ruber

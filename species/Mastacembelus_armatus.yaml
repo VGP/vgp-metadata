@@ -9,7 +9,5 @@ species:
     name: Mastacembelidae
   individuals:
     - short_name: fMasArm1
-  image: /assets/images/Mastacembelus_armatus.jpg
-  image_license: "public domain"
   genome_size: 756753344
   genome_size_method:

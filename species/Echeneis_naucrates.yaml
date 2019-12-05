@@ -9,7 +9,5 @@ species:
     name: Echeneidae
   individuals:
     - short_name: fEcheNa1
-  image:
-  image_license: "CC BY 2.0 Richard ling (wikimedia)"
   genome_size:
   genome_size_method:

@@ -9,7 +9,5 @@ species:
     name: Anatidae
   individuals:
     - short_name: bNomDom1
-  image:
-  image_license: "CC BY-SA 2.0 Félix Uribe (flickr)"
   genome_size:
   genome_size_method:

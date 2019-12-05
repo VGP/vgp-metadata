@@ -9,7 +9,5 @@ species:
     name: Zeidae
   individuals:
     - short_name: fZeuFab1
-  image:
-  image_license: "CC BY-NC-SA 2.0 Sarah Faulwetter (flickr)"
   genome_size:
   genome_size_method:

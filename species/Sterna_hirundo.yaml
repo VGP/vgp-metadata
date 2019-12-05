@@ -4,8 +4,6 @@ species:
     name: Laridae
   genome_size: 1400000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY 2.0 Frank Vassen (flickr)"
   individuals:
   - short_name: bSteHir1
   name: Sterna hirundo

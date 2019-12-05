@@ -4,8 +4,6 @@ species:
     name: Anatidae
   genome_size: 1480000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY-SA 3.0 Charles J Sharp (wikimedia)"
   individuals:
   - short_name: bCygOlo1
   name: Cygnus olor

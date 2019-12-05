@@ -13,7 +13,5 @@ species:
     - short_name: bTaeGut3
     - short_name: bTaeGut4
     - short_name: bTaeGut5
-  image: /assets/images/Taeniopygia_guttata.jpg
-  image_license: "CC BY 2.0 Keith Gerstung (wikimedia)"
   genome_size: 1035611271
   genome_size_method:

@@ -9,7 +9,5 @@ species:
     name: Turdidae
   individuals:
     - short_name: bTurMer1
-  image:
-  image_license: "CC BY-SA 2.0 Juan Emilio (wikimedia)"
   genome_size:
   genome_size_method:

@@ -9,7 +9,5 @@ species:
     name: Balaenopteridae
   individuals:
     - short_name: mBalMus1
-  image: 
-  image_license: Copyright © Shutterstock, used with permission
   genome_size: 3093707188
   genome_size_method: genomescope (k=31)

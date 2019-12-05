@@ -9,7 +9,5 @@ species:
     name: Batrachoididae
   individuals:
     - short_name: fThaAma1
-  image: /assets/images/Thalassophryne_amazonica.jpg
-  image_license: Copyright Ralf Britz/NHM, used with permission
   genome_size:
   genome_size_method:

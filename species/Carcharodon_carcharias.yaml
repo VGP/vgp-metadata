@@ -4,8 +4,6 @@ species:
     name: Lamnidae
   genome_size: 4500000000
   genome_size_method: null
-  image: null
-  image_license: unknown
   individuals:
   - short_name: sCarCar2
   name: Carcharodon carcharias

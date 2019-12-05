@@ -9,7 +9,5 @@ species:
     name: Cichlidae
   individuals:
     - short_name: fArcCen1
-  image:  /assets/images/Archocentrus_centrarchus.jpg
-  image_license: "public domain"
   genome_size: 988048114
   genome_size_method:

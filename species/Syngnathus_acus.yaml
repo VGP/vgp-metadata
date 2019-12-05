@@ -9,7 +9,5 @@ species:
     name: Syngnathidae
   individuals:
     - short_name: fSynAcu1
-  image:
-  image_license: "CC BY 3.0 Roberto Pillon (wikimedia)"
   genome_size:
   genome_size_method:

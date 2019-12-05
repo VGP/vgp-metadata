@@ -4,8 +4,6 @@ species:
     name: Picidae
   genome_size: 1400000000
   genome_size_method: null
-  image: null
-  image_license: unknown
   individuals:
   - short_name: bDryPub1
   name: Dryobates pubescens

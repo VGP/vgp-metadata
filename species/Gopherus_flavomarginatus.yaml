@@ -4,8 +4,6 @@ species:
     name: Testudinidae
   genome_size: 2500000000
   genome_size_method: null
-  image: null
-  image_license: unknown
   individuals:
   - short_name: rGopFla2
   name: Gopherus flavomarginatus

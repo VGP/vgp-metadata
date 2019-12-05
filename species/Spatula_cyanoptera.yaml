@@ -9,7 +9,5 @@ species:
     name: Anatidae
   individuals:
     - short_name: bSpaCya1
-  image:
-  image_license: "CC BY 2.0 Michael L. Baird (wikimedia)"
   genome_size:
   genome_size_method:

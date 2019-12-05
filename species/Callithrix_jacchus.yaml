@@ -4,8 +4,6 @@ species:
     name: Callitrichidae
   genome_size: 3430000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY-SA 2.0 Luciano Marra (flickr)"
   individuals:
   - short_name: mCalJac1
   name: Callithrix jacchus

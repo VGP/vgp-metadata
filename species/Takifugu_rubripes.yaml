@@ -9,7 +9,5 @@ species:
     name: Tetraodontidae
   individuals:
     - short_name: fTakRub1
-  image:
-  image_license: "CC BY-SA 2.5 OpenCage (wikimedia)"
   genome_size:
   genome_size_method:

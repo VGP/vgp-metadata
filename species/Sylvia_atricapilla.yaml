@@ -4,8 +4,6 @@ species:
     name: Sylviidae
   genome_size: 1090000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY 2.0 Frank Vassen (wikimedia)"
   individuals:
   - short_name: bSylAtr1
   name: Sylvia atricapilla

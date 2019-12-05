@@ -2,8 +2,6 @@ species:
   common_name: Greater mouse-eared bat
   family:
     name: Vespertilionidae
-  image: 
-  image_license: "CC BY-SA 4.0, author: MissMhisi (wikimedia)"
   individuals:
   - short_name: mMyoMyo1
   name: Myotis myotis

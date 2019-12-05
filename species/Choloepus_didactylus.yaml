@@ -9,7 +9,5 @@ species:
     name: Megalonychidae
   individuals:
     - short_name: mChoDid1
-  image:
-  image_license: "CC BY-SA 3.0 Hans Hillewaert (wikimedia)"
   genome_size:3400000000
   genome_size_method:

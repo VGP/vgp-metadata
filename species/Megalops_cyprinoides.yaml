@@ -4,8 +4,6 @@ species:
     name: Megalopidae
   genome_size: 1093257451 
   genome_size_method: genomescope
-  image: 
-  image_license: "no copyright, public domain, user:Melanochromis (wikimedia)"
   individuals:
   - short_name: fMegCyp1
   name: Megalops cyprinoides

@@ -9,7 +9,5 @@ species:
     name: Accipitridae
   individuals:
     - short_name: bAquChr1
-  image:
-  image_license: "CC BY-SA 4.0 Diego Delso (wikimedia)"
   genome_size:
   genome_size_method:

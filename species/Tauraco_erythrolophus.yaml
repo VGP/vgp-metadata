@@ -4,8 +4,6 @@ species:
     name: Musophagidae
   genome_size: 1170000000
   genome_size_method: null
-  image: 
-  image_license: "(pixabay)"
   individuals:
   - short_name: bTauEry1
   name: Tauraco erythrolophus

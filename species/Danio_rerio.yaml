@@ -25,7 +25,5 @@ species:
       strain: Tuebingen
       sex: female
       description: Tuebingen strain double haploid female founder of SAT strain
-  image: 
-  image_license: CC BY-SA 2.0, Lynn Ketchum (wikimedia)
   genome_size: 
   genome_size_method:

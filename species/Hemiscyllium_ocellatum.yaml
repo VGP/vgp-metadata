@@ -4,8 +4,6 @@ species:
     name: Hemiscylliidae
   genome_size: 5500000000
   genome_size_method: null
-  image: null
-  image_license: unknown
   individuals:
   - short_name: sHemOce1
   name: Hemiscyllium ocellatum

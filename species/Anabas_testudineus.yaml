@@ -9,7 +9,5 @@ species:
     name: Anabantidae
   individuals:
     - short_name: fAnaTes1
-  image: /assets/images/Anabas_testudineus.jpg
-  image_license: "public domain"
   genome_size: 662696525
   genome_size_method:

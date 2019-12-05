@@ -4,8 +4,6 @@ species:
     name: Hirundinidae
   genome_size: 1310000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY-SA 2.0 Mike Pennington (geograph)"
   individuals:
   - short_name: bHirRus1
   name: Hirundo rustica

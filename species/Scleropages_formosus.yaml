@@ -9,7 +9,5 @@ species:
     name: Osteoglossidae
   individuals:
     - short_name: fSclFor1
-  image:
-  image_license: "CC BY-SA 2.5 Okinawa Churaumi Aquarium (opencage)"
   genome_size:
   genome_size_method:

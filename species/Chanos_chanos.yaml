@@ -9,7 +9,5 @@ species:
     name: Chanidae
   individuals:
     - short_name: fChaCha1
-  image: 
-  image_license: CC BY-SA 4.0 Hectonichus (wikimedia)
   genome_size: 
   genome_size_method:

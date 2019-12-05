@@ -9,7 +9,5 @@ species:
     name: Anatidae
   individuals:
     - short_name: bBraLeu1
-  image:
-  image_license: "CC BY 2.0 Bengt Nyman (flickr)"
   genome_size:
   genome_size_method:

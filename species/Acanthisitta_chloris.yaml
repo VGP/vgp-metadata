@@ -9,7 +9,5 @@ species:
     name: Acanthisittidae
   individuals:
     - short_name: bAcaChl1
-  image:
-  image_license: "CC BY-SA 2.0 digitaltrails (flickr)"
   genome_size:1050000000
   genome_size_method:

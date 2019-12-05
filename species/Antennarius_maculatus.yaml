@@ -2,8 +2,6 @@ species:
   common_name: warty frogfish
   family:
     name: Antennariidae
-  image: 
-  image_license: "CC BY-SA 2.0, author: Bernard DUPONT (wikimedia)"
   individuals:
   - short_name: fAntMac1
   name: Antennarius maculatus

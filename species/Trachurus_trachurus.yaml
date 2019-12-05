@@ -9,7 +9,5 @@ species:
     name: Carangidae
   individuals:
     - short_name: fTraTra
-  image:
-  image_license: CC BY-SA 4.0, Peter Southwood (wikimedia)
   genome_size:
   genome_size_method:

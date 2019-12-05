@@ -4,8 +4,6 @@ species:
     name: Hylidae
   genome_size: 2520000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY 2.0 Brian Gratwicke (flickr)"
   individuals:
   - short_name: aDenEbr1
   name: Dendropsophus ebraccatus

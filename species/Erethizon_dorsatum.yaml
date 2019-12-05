@@ -4,8 +4,6 @@ species:
     name: Erethizontidae
   genome_size: 2900000000
   genome_size_method: null
-  image: null
-  image_license: unknown
   individuals:
   - short_name: mEreDor1
   name: Erethizon dorsatum

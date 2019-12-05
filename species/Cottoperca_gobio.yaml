@@ -10,7 +10,5 @@ species:
   individuals:
     - short_name: fCotGob2
     - short_name: fCotGob3
-  image: /assets/images/Cottoperca_gobio.jpg
-  image_license: "public domain"
   genome_size: 700000000
   genome_size_method:

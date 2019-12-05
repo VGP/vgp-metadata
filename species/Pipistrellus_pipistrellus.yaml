@@ -9,7 +9,5 @@ species:
     name: Vespertilionidae
   individuals:
     - short_name: mPipPip1
-  image:
-  image_license: CC BY-SA 2.0, Gilles San Martin (flickr)
   genome_size:
   genome_size_method:

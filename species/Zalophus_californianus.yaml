@@ -4,8 +4,6 @@ species:
     name: Otariidae
   genome_size: 3150000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY-SA 2.0 Gregory Smith (flickr)"
   individuals:
   - short_name: mZalCal1
   name: Zalophus californianus

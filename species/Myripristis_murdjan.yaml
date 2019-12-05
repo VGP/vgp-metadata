@@ -9,7 +9,5 @@ species:
     name: Holocentridae
   individuals:
     - short_name: fMyrMur1
-  image:
-  image_license: "CC BY 2.0 Rickard Zerpe (flickr)"
   genome_size:
   genome_size_method:

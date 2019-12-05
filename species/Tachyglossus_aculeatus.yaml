@@ -4,8 +4,6 @@ species:
     name: Tachyglossidae
   genome_size: 2890000000
   genome_size_method: null
-  image: 
-  image_license: "CC BY-SA 3.0 JKMelville (wikimedia)"
   individuals:
   - short_name: mTacAcu1
   name: Tachyglossus aculeatus
