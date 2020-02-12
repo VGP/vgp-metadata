@@ -1,0 +1,13 @@
+species:
+  short_name: bTheCae
+  name: Theristicus caerulescens
+  taxon_id: 1118847
+  common_name: plumbeous ibis
+  order:
+    name: Pelicaniformes
+  family:
+    name: Threskiornithidae
+  individuals:
+    - short_name: bTheCae1
+  genome_size:1000000000
+  genome_size_method:

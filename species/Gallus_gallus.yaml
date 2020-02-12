@@ -4,10 +4,14 @@ species:
     name: Phasianidae
   genome_size: 1210000000
   genome_size_method: null
-  individuals:
-  - short_name: bGalGal1
   name: Gallus gallus
   order:
     name: Galliformes
   short_name: bGalGal
   taxon_id: 9031
+    individuals:
+  - short_name: bGalGal1
+  - short_name: bGalGal2
+  - short_name: bGalGal3
+  - short_name: bGalGal4
+  - short_name: bGalGal5

@@ -1,0 +1,13 @@
+species:
+  short_name: bTroSur
+  name: Trogon surrucura
+  taxon_id: 297711
+  common_name: Suruca trogon
+  order:
+    name: Trogoniformes
+  family:
+    name: Trogonidae
+  individuals:
+    - short_name: bTroSur1
+  genome_size:1000000000
+  genome_size_method:
