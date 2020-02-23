@@ -1,0 +1,15 @@
+species:
+  short_name: fEsoLuc
+  name: Esox lucius 
+  taxon_id: 8010
+  common_name: northern pike
+  order:
+    name: Esociformes 
+  family:
+    name: Esocidae
+  individuals:
+    - short_name: fEsoLuc1
+  image:
+  image_license: CC-BY-3.0, Author: Jik jik
+  genome_size: 1105706148
+  genome_size_method: Genomescope
