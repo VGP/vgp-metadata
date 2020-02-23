@@ -1,0 +1,15 @@
+species:
+  short_name: mMolMol
+  name: Molossus molossus
+  taxon_id: 27622
+  common_name: Pallas's mastiff bat
+  order:
+    name: Chiroptera
+  family:
+    name: Molossidae
+  individuals:
+    - short_name: mMolMol1
+  image:
+  image_license: CC-BY-3.0, User: Sahaquiel9102
+  genome_size: 2319008189
+  genome_size_method: DAmar assembly 
