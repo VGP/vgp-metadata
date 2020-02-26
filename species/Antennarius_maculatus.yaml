@@ -2,6 +2,8 @@ species:
   common_name: warty frogfish
   family:
     name: Antennariidae
+  genome_size: 604861782
+  genome_size_method: meryl
   individuals:
   - short_name: fAntMac1
   name: Antennarius maculatus
