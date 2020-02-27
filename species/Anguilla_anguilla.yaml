@@ -1,0 +1,13 @@
+species:
+  short_name: fAngAng1
+  name: Anguilla anguilla
+  taxon_id: 7936
+  common_name: European eel
+  order:
+    name: Anguilliformes
+  family:
+    name: Anguillidae
+  individuals:
+    - short_name: fAngAng1
+  genome_size: 1355153153
+  genome_size_method: meryl
