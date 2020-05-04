@@ -1,0 +1,13 @@
+species:
+  common_name: spotted scat
+  family:
+    name: Scatophagidae
+  genome_size: 647966298
+  genome_size_method: genomescope
+  individuals:
+  - short_name: fScaArg1
+  name: Scatophagus argus
+  order:
+    name: Perciformes
+  short_name: fScaArg
+  taxon_id: 75038
