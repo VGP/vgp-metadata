@@ -1,0 +1,15 @@
+species:
+  short_name: fAnaAna
+  name: Anableps anableps
+  taxon_id: 195821
+  common_name: largescale foureyes
+  order:
+    name: Cyprinodontiformes
+  family:
+    name: Anablepidae
+  individuals:
+    - short_name: fAnaAna1
+  image:
+  image_license: CC BY-SA 1.0, User: Haplochromis
+  genome_size: 939460000
+  genome_size_method: 10X Genomucs Supernova assembly 
