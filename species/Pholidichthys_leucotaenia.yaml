@@ -1,0 +1,13 @@
+species:
+  short_name: fPhoLeu
+  name: Pholidichthys leucotaenia
+  taxon_id: 390368
+  common_name: Convict blenny 
+  order:
+    name: Cichliformes
+  family:
+    name: Pholidichthyidae
+  individuals:
+    - short_name: fPhoLeu1
+  image:
+  image_license: CC BY-SA-3.0, User: Haplochromis
