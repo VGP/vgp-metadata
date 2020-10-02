@@ -1,0 +1,13 @@
+species:
+  short_name: mDroGli
+  name: Dromiciops gliroides
+  taxon_id: 33562
+  common_name: monito del monte 
+  order:
+    name: Microbiotheria
+  family:
+    name: Microbiotheriidae
+  individuals:
+    - short_name: mDroGli1
+  image:
+  image_license: CC BY-2.0 User: José Luis Bartheld
