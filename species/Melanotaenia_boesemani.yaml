@@ -1,0 +1,13 @@
+species:
+  short_name: fMelBoe
+  name: Melanotaenia boesemani
+  taxon_id: 1250792
+  common_name: Boeseman's rainbowfish
+  order:
+    name: Atheriniformes
+  family:
+    name: Melanotaeniidae
+  individuals:
+    - short_name: fMelBoe1
+  image:
+  image_license: CC BY-SA-4.0, User: Madhav dam
