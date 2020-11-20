@@ -1,0 +1,13 @@
+species:
+  short_name: fLipPho
+  name: Lipophrys pholis
+  taxon_id: 56720
+  common_name: shanny
+  order:
+    name: Blenniiformes
+  family:
+    name: Blenniidae
+  individuals:
+    - short_name: fLipPho2
+  genome_size:
+  genome_size_method:

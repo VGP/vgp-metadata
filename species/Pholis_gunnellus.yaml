@@ -1,0 +1,13 @@
+species:
+  short_name: fPhoGun
+  name: Pholis gunnellus
+  taxon_id: 56726
+  common_name: rock gunnel
+  order:
+    name: Perciformes
+  family:
+    name: Pholidae
+  individuals:
+    - short_name: fPhoGun1
+  genome_size:
+  genome_size_method:

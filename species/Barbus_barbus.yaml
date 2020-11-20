@@ -1,0 +1,13 @@
+species:
+  short_name: fBarBab
+  name: Barbus barbus
+  taxon_id: 40830
+  common_name: common barbel
+  order:
+    name: Cypriniformes
+  family:
+    name: Cyprinidae
+  individuals:
+    - short_name: fBarBab1
+  genome_size:
+  genome_size_method:

@@ -1,0 +1,13 @@
+species:
+  short_name: fTauBub
+  name: Taurulus bubalis
+  taxon_id: 61643
+  common_name: long-spined sea scorpion
+  order:
+    name: Perciformes
+  family:
+    name: Cottidae
+  individuals:
+    - short_name: fTauBub2
+  genome_size:
+  genome_size_method:
