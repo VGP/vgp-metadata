@@ -1,0 +1,14 @@
+species:
+  short_name: fThuMac
+  name: Thunnus maccoyii
+  taxon_id: 8240
+  common_name: Southern bluefin tuna
+  order:
+    name: Perciformes
+  family:
+    name: Scombridae
+  individuals:
+    - short_name: fThuMac1
+      sex: male
+  genome_size:
+  genome_size_method:
