@@ -1,0 +1,15 @@
+species:
+  short_name: qChiOpi
+  name: Chionoecetes_opilio
+  taxon_id: 41210
+  common_name: snow crab
+  order:
+    name: Brachyura
+  family:
+    name: Majidae
+  individuals:
+    - short_name: qChiOpi1
+      provider: Amber Messmer, Ian Bradbury, Corey Morris
+      sex: male
+  genome_size: 25000000000
+  genome_size_method:
