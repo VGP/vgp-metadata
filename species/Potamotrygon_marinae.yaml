@@ -1,0 +1,15 @@
+species:
+  short_name: sPotMar
+  name: Potamotrygon marinae
+  taxon_id: null
+  common_name: gold dust stingray
+  order:
+    name: Myliobatiformes
+  family:
+    name: Potamotrygonidae
+  individuals:
+    - short_name: sPotMar1
+      sex: male
+      provider: Yann Guiguen, Julien Bobe, Gavin Naylor
+  genome_size: 4500000000
+  genome_size_method:
