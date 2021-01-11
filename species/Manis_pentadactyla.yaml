@@ -1,0 +1,15 @@
+species:
+  short_name: mManPen
+  name: Manis pentadactyla
+  taxon_id: 143292
+  common_name: Chinese pangolin
+  order:
+    name: Pholidota
+  family:
+    name: Manidae
+  individuals:
+    - short_name: mManPen7
+      provider: Shujin Luo, Bill Murphy
+      sex: male
+  genome_size: 30000000000
+  genome_size_method:
