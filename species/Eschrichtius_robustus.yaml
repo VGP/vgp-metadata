@@ -1,0 +1,15 @@
+species:
+  short_name: mEscRob
+  name: Eschrichtius robustus
+  taxon_id: 9764
+  common_name: grey whale
+  order:
+    name: Artiodactyla
+  family:
+    name: Eschrichtiidae
+  individuals:
+    - short_name: mEscRob1
+      provider: Marlys Houck, Phillip Morin
+      sex: male
+  genome_size: 30000000000
+  genome_size_method:
