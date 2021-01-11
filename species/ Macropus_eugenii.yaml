@@ -1,0 +1,15 @@
+species:
+  short_name: mMacEug
+  name:  Macropus eugenii
+  taxon_id: 9315
+  common_name: tammar wallaby
+  order:
+    name: Diprotodontia
+  family:
+    name: Macropodidae
+  individuals:
+    - short_name: mMacEug1
+      sex: male
+      provider: Andrew Veale
+  genome_size: 3000000000
+  genome_size_method:
