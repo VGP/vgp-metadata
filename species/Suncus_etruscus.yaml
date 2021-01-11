@@ -1,0 +1,15 @@
+species:
+  short_name: mSunEtr
+  name: Suncus_etruscus
+  taxon_id: 109475
+  common_name: white-toothed_pygmy_shrew
+  order:
+    name: Eulipotyphla
+  family:
+    name: Soricidae
+  individuals:
+    - short_name: mSunEtr1
+      sex: male
+      provider: Susanne Meyer, Jessica Antosiewicz-Bourget, Yury Bukhman
+  genome_size: 3000000000
+  genome_size_method:
