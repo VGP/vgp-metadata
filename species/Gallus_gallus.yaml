@@ -11,7 +11,29 @@ species:
   taxon_id: 9031
     individuals:
   - short_name: bGalGal1
+    mother: bGalGal2
+    father: bGalGal3
+    sex: female
+    prrovider: Nick Anthony, Wesley Warren
+    description: >
+        Broiler x Leghorn cross;
   - short_name: bGalGal2
+    sex: female
+    description: >
+        Broiler breed;
+    provider: Nick Anthony, Wesley Warren
   - short_name: bGalGal3
+    sex: male
+    description: >
+        Leghorn breed;
+    provider: Nick Anthony, Wesley Warren
   - short_name: bGalGal4
+    sex: female
+    provider: Joan Tarradas, Antton Alberdi
+    description: >
+        Broiler Ross breed;
   - short_name: bGalGal5
+    provider: Joan Tarradas, Antton Alberdi
+    sex: female
+    description: >
+        Broiler Cobb breed;
