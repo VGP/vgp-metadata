@@ -1,0 +1,15 @@
+species:
+  short_name: bFalBia
+  name: Falco biarmicus
+  taxon_id: 345155
+  common_name: lanner falcon
+  order:
+    name: Falconiformes
+  family:
+    name: Falconidae
+  individuals:
+    - short_name: bFalBia1
+      provider: Farooq Al-Ajli
+      sex: female
+  genome_size: 12000000000
+  genome_size_method:
