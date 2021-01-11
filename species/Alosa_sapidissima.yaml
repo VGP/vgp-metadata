@@ -1,0 +1,18 @@
+species:
+  short_name: fAloSap
+  name:  Alosa sapidissima
+  taxon_id: 34773
+  common_name: American shad
+  order:
+    name: Clupeiformes
+  family:
+    name: Clupeidae
+  individuals:
+    - short_name: fAloSap1
+      sex: male
+      provider: Reid Hyle, Nina Overgaard Therkildsen
+    - short_name: fAloSap2
+      sex: male
+      provider: Reid Hyle, Nina Overgaard Therkildsen
+  genome_size: 900000000
+  genome_size_method:
