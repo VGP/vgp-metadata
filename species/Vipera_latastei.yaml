@@ -1,0 +1,14 @@
+species:
+  short_name: rVipLat
+  name: Vipera latastei
+  taxon_id: 246179
+  common_name: snub-nosed viper
+  order:
+    name: Squamata
+  family:
+    name: Viperidae
+  individuals:
+    - short_name: rVipLat1
+      provider: Tomàs Marqués
+  genome_size: 2500000000
+  genome_size_method:
