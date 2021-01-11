@@ -9,7 +9,6 @@ species:
     name: Rallidae
   individuals:
     - short_name: bPorHoc1
-      sex: male
       provider: Glen Greaves, Lara Urban
       mother: bPorHoc2
       father: bPorHoc3
