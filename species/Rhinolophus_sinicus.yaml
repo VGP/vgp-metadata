@@ -1,0 +1,15 @@
+species:
+  short_name: mRhiSin
+  name: Rhinolophus sinicus
+  taxon_id: 89399
+  common_name: Chinese rufous horseshoe bat
+  order:
+    name: Chiroptera
+  family:
+    name: Rhinolophidae
+  individuals:
+    - short_name: mRhiSin1
+      provider: Jianguo Lu
+      sex: male
+  genome_size: 29000000000
+  genome_size_method:
