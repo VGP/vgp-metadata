@@ -1,0 +1,19 @@
+species:
+  short_name: bFalPer
+  name: Falco peregrinus
+  taxon_id: 8954
+  common_name: peregrine falcon
+  order:
+    name: Falconiformes
+  family:
+    name: Falconidae
+  individuals:
+    - short_name: bFalPer1
+      provider: Farooq Al-Ajli
+      sex: female
+      subspecies:
+        name: Falco peregrinus calidus
+        common_name: Siberian peregrine falcon
+        taxon_id: 495983
+  genome_size: 12000000000
+  genome_size_method:
