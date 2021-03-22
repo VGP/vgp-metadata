@@ -1,0 +1,13 @@
+species:
+  short_name: fAplTae
+  name: Aplochiton taeniatus
+  taxon_id: 946358
+  common_name: Peladilla
+  order:
+    name: Galaxiiformes
+  family:
+    name: Galaxiidae
+  individuals:
+    - short_name: fAplTae1
+  image:
+  image_license: CC BY-2.5, Author: Diego Fontaneto, Consiglio Nazionale delle Ricerche (CNR), Italy
