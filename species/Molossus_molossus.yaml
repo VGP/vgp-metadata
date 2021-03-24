@@ -10,6 +10,7 @@ species:
   individuals:
     - short_name: mMolMol1
   image:
-  image_license: CC-BY-3.0, User: Sahaquiel9102
+    image_license: CC-BY-3.0
+    User: Sahaquiel9102
   genome_size: 2319008189
   genome_size_method: DAmar assembly 

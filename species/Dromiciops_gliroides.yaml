@@ -10,4 +10,5 @@ species:
   individuals:
     - short_name: mDroGli1
   image:
-  image_license: CC BY-2.0 User: José Luis Bartheld
+    image_license: CC BY-2.0 
+    User: José Luis Bartheld

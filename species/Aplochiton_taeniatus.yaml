@@ -10,4 +10,5 @@ species:
   individuals:
     - short_name: fAplTae1
   image:
-  image_license: CC BY-2.5, Author: Diego Fontaneto, Consiglio Nazionale delle Ricerche (CNR), Italy
+    image_license: CC BY-2.5
+    Author: Diego Fontaneto, Consiglio Nazionale delle Ricerche (CNR), Italy

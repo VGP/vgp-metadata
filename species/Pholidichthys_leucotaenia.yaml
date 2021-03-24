@@ -10,4 +10,5 @@ species:
   individuals:
     - short_name: fPhoLeu1
   image:
-  image_license: CC BY-SA-3.0, User: Haplochromis
+    image_license: CC BY-SA-3.0
+    User: Haplochromis

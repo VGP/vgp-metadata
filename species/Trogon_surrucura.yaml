@@ -9,5 +9,5 @@ species:
     name: Trogonidae
   individuals:
     - short_name: bTroSur1
-  genome_size:1000000000
+  genome_size: 1000000000
   genome_size_method:

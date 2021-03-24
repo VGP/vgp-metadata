@@ -10,4 +10,5 @@ species:
   individuals:
     - short_name: fXenCan1
   image:
-  image_license: CC BY-SA-3.0, User: Guérin Nicolas
+    image_license: CC BY-SA-3.0
+    User: Guérin Nicolas

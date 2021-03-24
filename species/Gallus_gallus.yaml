@@ -9,7 +9,7 @@ species:
     name: Galliformes
   short_name: bGalGal
   taxon_id: 9031
-    individuals:
+  individuals:
   - short_name: bGalGal1
     mother: bGalGal2
     father: bGalGal3

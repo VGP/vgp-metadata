@@ -9,5 +9,5 @@ species:
     name: Gruidae
   individuals:
     - short_name: bGruAme1
-  genome_size:1000000000
+  genome_size: 1000000000
   genome_size_method:
