@@ -9,8 +9,5 @@ species:
     name: Vespertilionidae
   individuals:
     - short_name: mPipKuh1
-  image:
-    image_license: GFDL & CC ShareAlike 2.0 
-    User: Mnolf
   genome_size: 1775719727
   genome_size_method: DAmar assembly 

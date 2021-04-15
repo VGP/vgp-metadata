@@ -9,8 +9,5 @@ species:
     name: Anablepidae
   individuals:
     - short_name: fAnaAna1
-  image:
-    image_license: CC BY-SA 1.0
-    User: Haplochromis
   genome_size: 939460000
   genome_size_method: 10X Genomucs Supernova assembly 
