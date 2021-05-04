@@ -1,0 +1,11 @@
+species:
+  short_name: aBomBom
+  name: Bombina bombina
+  taxon_id: 8345
+  common_name: European fire-bellied toad
+  order:
+    name: Anura
+  family:
+    name: Bombinatoridae
+  individuals:
+    - short_name: aBomBom1
