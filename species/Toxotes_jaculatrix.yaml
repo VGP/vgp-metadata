@@ -1,0 +1,11 @@
+species:
+  short_name: fToxJac
+  name: Toxotes jaculatrix
+  taxon_id: 941984
+  common_name: banded archerfish
+  order:
+    name: Perciformes
+  family:
+    name: Toxotidae
+  individuals:
+    - short_name: fToxJac2
