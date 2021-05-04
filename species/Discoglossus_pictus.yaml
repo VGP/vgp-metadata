@@ -1,0 +1,11 @@
+species:
+  short_name: aDisPic
+  name: Discoglossus pictus
+  taxon_id: 8351
+  common_name: painted frog
+  order:
+    name: Anura
+  family:
+    name: Alytidae
+  individuals:
+    - short_name: aDisPic1
