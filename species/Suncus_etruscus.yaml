@@ -1,8 +1,8 @@
 species:
   short_name: mSunEtr
-  name: Suncus_etruscus
+  name: Suncus etruscus
   taxon_id: 109475
-  common_name: white-toothed_pygmy_shrew
+  common_name: white-toothed pygmy shrew
   order:
     name: Eulipotyphla
   family:
