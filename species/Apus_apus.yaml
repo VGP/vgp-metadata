@@ -1,0 +1,11 @@
+species:
+  short_name: bApuApu
+  name: Apus apus
+  taxon_id: 8895
+  common_name: Common swift
+  order:
+    name: Apodiformes
+  family:
+    name: Apodidae
+  individuals:
+    - short_name: bApuApu2
