@@ -1,0 +1,11 @@
+species:
+  short_name: mHetBru
+  name: Heterohyrax brucei
+  taxon_id: 77598
+  common_name: Yellow-spotted hyrax
+  order:
+    name: Hyracoidea
+  family:
+    name: Procaviidae
+  individuals:
+    - short_name: mHetBru1
