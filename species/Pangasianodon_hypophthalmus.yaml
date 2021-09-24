@@ -1,0 +1,11 @@
+species:
+  short_name: fPanHyp
+  name: Pangasianodon hypophthalmus 
+  taxon_id: 310915
+  common_name: Iridescent shark
+  order:
+    name: Siluriformes
+  family:
+    name: Pangasiidae
+  individuals:
+    - short_name: fPanHyp1
