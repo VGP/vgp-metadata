@@ -1,0 +1,11 @@
+species:
+  short_name: bRisTri
+  name: Rissa tridactyla
+  taxon_id: 75485
+  common_name: Black-legged kittiwake
+  order:
+    name: Charadriiformes
+  family:
+    name: Laridae
+  individuals:
+    - short_name: bRisTri1
