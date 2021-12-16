@@ -1,0 +1,14 @@
+species:
+  short_name: fThuAlb
+  name: Thunnus albacares
+  taxon_id: 8236
+  common_name: yellowfin tuna
+  order:
+    name: Perciformes
+  family:
+    name: Scombridae
+  individuals:
+    - short_name: fThuAlb1
+      biosample_id: SAMEA8654749
+  genome_size:
+  genome_size_method:

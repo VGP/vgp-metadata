@@ -1,0 +1,13 @@
+species:
+  short_name: fBorAnt
+  name: Borostomias antarcticus
+  taxon_id: 473354
+  common_name: large-eye snaggletooth
+  order:
+    name: Stomiiformes
+  family:
+    name: Stomiidae
+  individuals:
+    - short_name: fBorAnt1
+  genome_size:
+  genome_size_method:

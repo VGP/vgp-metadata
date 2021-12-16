@@ -1,0 +1,15 @@
+species:
+  short_name: mApoSyl
+  name: Apodemus sylvaticus
+  taxon_id: 10129
+  common_name: wood mouse
+  order:
+    name: Rodentia
+  family:
+    name: Muridae
+  individuals:
+    - short_name: mApoSyl1
+      biosample_id: SAMEA7702024
+      sex: female
+  genome_size:
+  genome_size_method:

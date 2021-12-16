@@ -1,0 +1,15 @@
+species:
+  short_name: mApoFla
+  name: Apodemus flavicollis
+  taxon_id: 54292
+  common_name: yellow-necked mouse
+  order:
+    name: Rodentia
+  family:
+    name: Muridae
+  individuals:
+    - short_name: mApoFla1
+      biosample_id: SAMEA7702025
+      sex: male
+  genome_size:
+  genome_size_method:

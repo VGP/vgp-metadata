@@ -1,0 +1,15 @@
+species:
+  short_name: bCinCin
+  name: Cinclus cinclus
+  taxon_id: 127875
+  common_name: white-throated dipper
+  order:
+    name: Passeriformes
+  family:
+    name: Cinclidae
+  individuals:
+    - short_name: bCinCin2
+      biosample_id: SAMEA9679961
+      sex: male
+  genome_size:
+  genome_size_method:

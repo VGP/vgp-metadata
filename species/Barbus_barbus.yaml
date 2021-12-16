@@ -2,7 +2,7 @@ species:
   short_name: fBarBab
   name: Barbus barbus
   taxon_id: 40830
-  common_name: common barbel
+  common_name: barbel
   order:
     name: Cypriniformes
   family:

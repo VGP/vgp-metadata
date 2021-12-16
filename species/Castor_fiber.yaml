@@ -1,0 +1,15 @@
+species:
+  short_name: mCasFib
+  name: Castor fiber
+  taxon_id: 10185
+  common_name: Eurasian beaver
+  order:
+    name: Rodentia
+  family:
+    name: Castoridae
+  individuals:
+    - short_name: mCasFib2
+      biosample_id: SAMEA9654422
+      sex: male
+  genome_size:
+  genome_size_method:

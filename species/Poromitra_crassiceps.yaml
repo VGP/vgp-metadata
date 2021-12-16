@@ -1,0 +1,14 @@
+species:
+  short_name: fPorCra
+  name: Poromitra crassiceps
+  taxon_id: 88708
+  common_name: crested bigscale
+  order:
+    name: Stephanoberyciformes
+  family:
+    name: Melamphaidae
+  individuals:
+    - short_name: fPorCra3
+      biosample_id: SAMEA8748835
+  genome_size:
+  genome_size_method:

@@ -1,0 +1,13 @@
+species:
+  short_name: fEleAnt
+  name: Electrona antarctica
+  taxon_id: 206093
+  common_name: Antarctic lanternfish
+  order:
+    name: Myctophiformes
+  family:
+    name: Myctophidae
+  individuals:
+    - short_name: fEleAnt2
+  genome_size:
+  genome_size_method:

@@ -1,0 +1,14 @@
+species:
+  short_name: mOrcOrc
+  name: Orcinus orca
+  taxon_id: 9733
+  common_name: killer whale
+  order:
+    name: Artiodactyla
+  family:
+    name: Delphinidae
+  individuals:
+    - short_name: mOrcOrc1
+      sex: female
+  genome_size:
+  genome_size_method:

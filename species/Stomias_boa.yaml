@@ -1,0 +1,14 @@
+species:
+  short_name: fStoBoa
+  name: Stomias boa
+  taxon_id: 472766
+  common_name: boa dragonfish
+  order:
+    name: Stomiiformes
+  family:
+    name: Stomiidae
+  individuals:
+    - short_name: fStoBoa2
+      biosample_id: SAMEA8748840
+  genome_size:
+  genome_size_method:

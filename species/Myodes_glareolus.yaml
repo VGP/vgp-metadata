@@ -1,0 +1,15 @@
+species:
+  short_name: mMyoGla
+  name: Myodes glareolus
+  taxon_id: 447135
+  common_name: bank vole
+  order:
+    name: Rodentia
+  family:
+    name: Cricetidae
+  individuals:
+    - short_name: mMyoGla1
+      biosample_id: SAMEA7702027
+      sex: female
+  genome_size:
+  genome_size_method:

@@ -1,0 +1,15 @@
+species:
+  short_name: bAccGen
+  name: Accipiter gentilis
+  taxon_id: 8957
+  common_name: northern goshawk
+  order:
+    name: Accipitriformes
+  family:
+    name: Accipitridae
+  individuals:
+    - short_name: bAccGen1
+      biosample_id: SAMEA8235650
+      sex: female
+  genome_size:
+  genome_size_method:

@@ -1,0 +1,14 @@
+species:
+  short_name: keSacKowa
+  name: Saccoglossus kowalevskii
+  taxon_id: 10224
+  common_name: acorn worm
+  order:
+    name: Enteropneusta
+  family:
+    name: Harrimaniidae
+  individuals:
+    - short_name: keSacKowa2
+      biosample_id: SAMEA8748972
+  genome_size:
+  genome_size_method:

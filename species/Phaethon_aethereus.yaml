@@ -1,0 +1,15 @@
+species:
+  short_name: bPhaAeh
+  name: Phaethon aethereus
+  taxon_id: 37045
+  common_name: red-billed tropicbird
+  order:
+    name: Pelecaniformes
+  family:
+    name: Phaethontidae
+  individuals:
+    - short_name: bPhaAeh1
+      biosample_id: SAMEA8228671
+      sex: female
+  genome_size:
+  genome_size_method:

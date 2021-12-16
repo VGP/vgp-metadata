@@ -1,0 +1,15 @@
+species:
+  short_name: bCalBor
+  name: Calonectris borealis
+  taxon_id: 1323832
+  common_name: Cory's Shearwater
+  order:
+    name: Procellariiformes
+  family:
+    name: Procellariidae
+  individuals:
+    - short_name: bCalBor6
+      biosample_id: SAMEA8228670
+      sex: female
+  genome_size:
+  genome_size_method:

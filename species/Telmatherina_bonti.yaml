@@ -1,0 +1,14 @@
+species:
+  short_name: fTelBon
+  name: Telmatherina bonti
+  taxon_id: 446457
+  order:
+    name: Atheriniformes
+  family:
+    name: Telmatherinidae
+  individuals:
+    - short_name: fTelBon1
+      biosample_id: SAMEA8592627
+      sex: male
+  genome_size:
+  genome_size_method:
