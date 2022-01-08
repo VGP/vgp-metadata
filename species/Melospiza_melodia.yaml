@@ -1,0 +1,14 @@
+---
+species:
+  name: Melospiza melodia
+  individuals:
+  - short_name: bMelMel1
+  short_name: bMelMel
+  taxon_id: '44397'
+  common_name: song sparrow
+  genome_size: 1.399
+  genome_size_method: GoAT
+  order:
+    name: Passeriformes
+  family:
+    name: Passerellidae
