@@ -1,0 +1,14 @@
+---
+species:
+  name: Passerculus sandwichensis
+  individuals:
+  - short_name: bPasSan1
+  short_name: bPasSan
+  taxon_id: '161624'
+  common_name: Savannah sparrow
+  genome_size: 1.178
+  genome_size_method: GoAT
+  order:
+    name: Passeriformes
+  family:
+    name: Passerellidae
