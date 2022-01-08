@@ -1,0 +1,14 @@
+---
+species:
+  name: Emys orbicularis
+  individuals:
+  - short_name: rEmyOrb1
+  short_name: rEmyOrb
+  taxon_id: '82168'
+  common_name: European pond turtle
+  genome_size: 2.543
+  genome_size_method: GoAT
+  order:
+    name: Testudines
+  family:
+    name: Emydidae
