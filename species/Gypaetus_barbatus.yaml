@@ -1,0 +1,14 @@
+---
+species:
+  name: Gypaetus barbatus
+  individuals:
+  - short_name: bGypBar2
+  short_name: bGypBar
+  taxon_id: '33610'
+  common_name: lammergeier
+  genome_size: 1.434
+  genome_size_method: GoAT
+  order:
+    name: Falconiformes
+  family:
+    name: Accipitridae
