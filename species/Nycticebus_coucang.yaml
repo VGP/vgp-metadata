@@ -1,0 +1,14 @@
+---
+species:
+  name: Nycticebus coucang
+  individuals:
+  - short_name: mNycCou1
+  short_name: mNycCou
+  taxon_id: '9470'
+  common_name: slow loris
+  genome_size: 3.501
+  genome_size_method: GoAT
+  order:
+    name: Primates
+  family:
+    name: Lorisidae
