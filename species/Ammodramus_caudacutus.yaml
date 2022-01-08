@@ -1,0 +1,14 @@
+---
+species:
+  name: Ammodramus caudacutus
+  individuals:
+  - short_name: bAmmCau1
+  short_name: bAmmCau
+  taxon_id: '69262'
+  common_name: saltmarsh sparrow
+  genome_size: 1.306
+  genome_size_method: GoAT
+  order:
+    name: Passeriformes
+  family:
+    name: Passerellidae
