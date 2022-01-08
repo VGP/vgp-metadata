@@ -1,0 +1,14 @@
+---
+species:
+  name: Osmerus mordax
+  individuals:
+  - short_name: fOsmMor3
+  short_name: fOsmMor
+  taxon_id: '8014'
+  common_name: rainbow smelt
+  genome_size: 0.675
+  genome_size_method: GoAT
+  order:
+    name: Osmeriformes
+  family:
+    name: Osmeridae
