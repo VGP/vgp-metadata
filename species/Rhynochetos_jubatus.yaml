@@ -1,0 +1,14 @@
+---
+species:
+  name: Rhynochetos jubatus
+  individuals:
+  - short_name: bRhyJub1
+  short_name: bRhyJub
+  taxon_id: 54386
+  common_name: kagu
+  genome_size: 1.424
+  genome_size_method: GoAT
+  order:
+    name: Gruiformes
+  family:
+    name: Rhynochetidae
