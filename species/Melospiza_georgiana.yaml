@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: bMelGeo1
   short_name: bMelGeo
-  taxon_id: '44398'
+  taxon_id: 44398
   common_name: Swamp sparrow
   genome_size: 1.457
   genome_size_method: GoAT
