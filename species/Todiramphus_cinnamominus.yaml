@@ -1,0 +1,14 @@
+---
+species:
+  name: Todiramphus cinnamominus
+  individuals:
+  - short_name: bTodCin1
+  short_name: bTodCin
+  taxon_id: 1006542
+  common_name: Micronesian kingfisher
+  genome_size: 1.457
+  genome_size_method: GoAT
+  order:
+    name: Coraciiformes
+  family:
+    name: Alcedinidae
