@@ -1,0 +1,14 @@
+---
+species:
+  name: Dasypus novemcinctus
+  individuals:
+  - short_name: mDasNov1
+  short_name: mDasNov
+  taxon_id: 9361
+  common_name: nine-banded armadillo
+  genome_size: 5.291
+  genome_size_method: GoAT
+  order:
+    name: Cingulata
+  family:
+    name: Dasypodidae
