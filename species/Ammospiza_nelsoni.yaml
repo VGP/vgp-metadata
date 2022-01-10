@@ -1,0 +1,14 @@
+---
+species:
+  name: Ammospiza nelsoni
+  individuals:
+  - short_name: bAmmNel1
+  short_name: bAmmNel
+  taxon_id: 2857394
+  common_name: Nelson's sparrow
+  genome_size: 1.3
+  genome_size_method: GoAT
+  order:
+    name: Passeriformes
+  family:
+    name: Passerellidae
