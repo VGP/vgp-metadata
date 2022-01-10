@@ -1,0 +1,14 @@
+---
+species:
+  name: Malaclemys terrapin
+  individuals:
+  - short_name: rMalTer1
+  short_name: rMalTer
+  taxon_id: 8485
+  common_name: diamondback terrapin
+  genome_size: 2.67
+  genome_size_method: GoAT
+  order:
+    name: Testudines
+  family:
+    name: Emydidae
