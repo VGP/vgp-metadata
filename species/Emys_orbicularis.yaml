@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: rEmyOrb1
   short_name: rEmyOrb
-  taxon_id: '82168'
+  taxon_id: 82168
   common_name: European pond turtle
   genome_size: 2.543
   genome_size_method: GoAT
