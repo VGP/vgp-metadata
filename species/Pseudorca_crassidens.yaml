@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: mPseCra1
   short_name: mPseCra
-  taxon_id: '82174'
+  taxon_id: 82174
   common_name: false killer whale
   genome_size: 3.081
   genome_size_method: GoAT
