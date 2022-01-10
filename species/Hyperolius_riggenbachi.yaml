@@ -1,0 +1,14 @@
+---
+species:
+  name: Hyperolius riggenbachi
+  individuals:
+  - short_name: aHypRig1
+  short_name: aHypRig
+  taxon_id: 752182
+  common_name: Riggenbach's reed frog
+  genome_size: 4.287
+  genome_size_method: GoAT
+  order:
+    name: Anura
+  family:
+    name: Hyperoliidae
