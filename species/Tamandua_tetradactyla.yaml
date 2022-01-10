@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: mTamTet1
   short_name: mTamTet
-  taxon_id: '48850'
+  taxon_id: 48850
   common_name: southern tamandua
   genome_size: 4.02
   genome_size_method: GoAT
