@@ -1,0 +1,14 @@
+---
+species:
+  name: Chasiempis sclateri
+  individuals:
+  - short_name: bChaScl1
+  short_name: bChaScl
+  taxon_id: 1576535
+  common_name: Kauai elepaio
+  genome_size: 1.235
+  genome_size_method: GoAT
+  order:
+    name: Passeriformes
+  family:
+    name: Monarchidae
