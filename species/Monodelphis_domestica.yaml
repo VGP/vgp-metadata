@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: mMonDom1
   short_name: mMonDom
-  taxon_id: '13616'
+  taxon_id: 13616
   common_name: gray short-tailed opossum
   genome_size: 4.592
   genome_size_method: GoAT
