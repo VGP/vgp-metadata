@@ -1,0 +1,14 @@
+---
+species:
+  name: Acipenser naccarii
+  individuals:
+  - short_name: fAciNac1
+  short_name: fAciNac
+  taxon_id: 42330
+  common_name: Adriatic sturgeon
+  genome_size: 3.467
+  genome_size_method: GoAT
+  order:
+    name: Acipenseriformes
+  family:
+    name: Acipenseridae
