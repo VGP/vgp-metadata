@@ -1,0 +1,14 @@
+---
+species:
+  name: Liasis olivaceus
+  individuals:
+  - short_name: rLiaOli1
+  short_name: rLiaOli
+  taxon_id: 283338
+  common_name: olive python
+  genome_size: 1.675
+  genome_size_method: GoAT
+  order:
+    name: Squamata
+  family:
+    name: Pythonidae
