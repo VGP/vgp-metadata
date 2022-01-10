@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: rEryReg1
   short_name: rEryReg
-  taxon_id: '121349'
+  taxon_id: 121349
   common_name: royal ground snake
   genome_size: 1.966
   genome_size_method: GoAT
