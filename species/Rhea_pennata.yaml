@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: bPtePen1
   short_name: bPtePen
-  taxon_id: '8795'
+  taxon_id: 8795
   common_name: lesser rhea
   genome_size: 1.645
   genome_size_method: GoAT
