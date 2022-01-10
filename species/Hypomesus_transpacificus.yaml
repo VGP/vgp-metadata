@@ -1,0 +1,14 @@
+---
+species:
+  name: Hypomesus transpacificus
+  individuals:
+  - short_name: fHypTra1
+  short_name: fHypTra
+  taxon_id: 137520
+  common_name: delta smelt
+  genome_size: 0.724
+  genome_size_method: GoAT
+  order:
+    name: Osmeriformes
+  family:
+    name: Osmeridae
