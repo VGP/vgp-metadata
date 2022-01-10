@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: bPodStr1
   short_name: bPodStr
-  taxon_id: '8905'
+  taxon_id: 8905
   common_name: tawny frogmouth
   genome_size: 1.367
   genome_size_method: GoAT
