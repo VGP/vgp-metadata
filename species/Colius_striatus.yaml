@@ -1,0 +1,14 @@
+---
+species:
+  name: Colius striatus
+  individuals:
+  - short_name: bColStr4
+  short_name: bColStr
+  taxon_id: 57412
+  common_name: speckled mousebird
+  genome_size: 1.438
+  genome_size_method: GoAT
+  order:
+    name: Coliiformes
+  family:
+    name: Coliidae
