@@ -1,0 +1,14 @@
+---
+species:
+  name: Spea bombifrons
+  individuals:
+  - short_name: aSpeBom1
+  short_name: aSpeBom
+  taxon_id: 233779
+  common_name: plains spadefoot toad
+  genome_size: 1.208
+  genome_size_method: GoAT
+  order:
+    name: Anura
+  family:
+    name: Pelobatidae
