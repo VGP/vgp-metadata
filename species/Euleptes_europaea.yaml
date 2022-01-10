@@ -1,0 +1,14 @@
+---
+species:
+  name: Euleptes europaea
+  individuals:
+  - short_name: rEulEur1
+  short_name: rEulEur
+  taxon_id: 460621
+  common_name: tarantolino
+  genome_size: 2.533
+  genome_size_method: GoAT
+  order:
+    name: Squamata
+  family:
+    name: Sphaerodactylidae
