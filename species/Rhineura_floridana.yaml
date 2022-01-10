@@ -1,0 +1,14 @@
+---
+species:
+  name: Rhineura floridana
+  individuals:
+  - short_name: rRhiFlo1
+  short_name: rRhiFlo
+  taxon_id: 261503
+  common_name: Florida worm lizard
+  genome_size: 1.623
+  genome_size_method: GoAT
+  order:
+    name: Squamata
+  family:
+    name: Rhineuridae
