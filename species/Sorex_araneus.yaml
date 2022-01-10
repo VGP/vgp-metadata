@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: mSorAra1
   short_name: mSorAra
-  taxon_id: '42254'
+  taxon_id: 42254
   common_name: European shrew
   genome_size: 2.846
   genome_size_method: GoAT
