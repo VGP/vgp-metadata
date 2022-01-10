@@ -1,0 +1,14 @@
+---
+species:
+  name: Chelmon rostratus
+  individuals:
+  - short_name: fCheRos1
+  short_name: fCheRos
+  taxon_id: 109905
+  common_name: copperband butterflyfish
+  genome_size: 0.734
+  genome_size_method: GoAT
+  order:
+    name: Chaetodontiformes
+  family:
+    name: Chaetodontidae
