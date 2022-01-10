@@ -1,0 +1,14 @@
+---
+species:
+  name: Alligator mississippiensis
+  individuals:
+  - short_name: rAllMis1
+  short_name: rAllMis
+  taxon_id: 8496
+  common_name: American alligator
+  genome_size: 2.518
+  genome_size_method: GoAT
+  order:
+    name: Crocodylia
+  family:
+    name: Alligatoridae
