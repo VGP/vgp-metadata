@@ -1,0 +1,14 @@
+---
+species:
+  name: Ara ararauna
+  individuals:
+  - short_name: bAraAra1
+  short_name: bAraAra
+  taxon_id: 9226
+  common_name: blue-and-yellow macaw
+  genome_size: 1.412
+  genome_size_method: GoAT
+  order:
+    name: Psittaciformes
+  family:
+    name: Psittacidae
