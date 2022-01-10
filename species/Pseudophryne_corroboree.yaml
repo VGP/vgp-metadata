@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: aPseCor3
   short_name: aPseCor
-  taxon_id: '495146'
+  taxon_id: 495146
   common_name: corroboree frog
   genome_size: 8.557
   genome_size_method: GoAT
