@@ -4,7 +4,7 @@ species:
   individuals:
   - short_name: rPodRaf1
   short_name: rPodRaf
-  taxon_id: '65483'
+  taxon_id: 65483
   common_name: Aeolian wall lizard
   genome_size: 1.949
   genome_size_method: GoAT
