@@ -6,7 +6,7 @@ species:
   short_name: bSphHub
   taxon_id: '9240'
   common_name: Humboldt's penguin
-  genome_size: 1.594
+  genome_size: 1594000000
   genome_size_method: GoAT
   order:
     name: Sphenisciformes

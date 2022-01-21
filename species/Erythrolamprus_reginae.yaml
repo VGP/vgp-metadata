@@ -6,7 +6,7 @@ species:
   short_name: rEryReg
   taxon_id: 121349
   common_name: royal ground snake
-  genome_size: 1.966
+  genome_size: 1966000000
   genome_size_method: GoAT
   order:
     name: Squamata

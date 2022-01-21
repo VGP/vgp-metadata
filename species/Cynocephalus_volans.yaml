@@ -6,7 +6,7 @@ species:
   short_name: mCynVol
   taxon_id: 110931
   common_name: Philippine flying lemur
-  genome_size: 3.554
+  genome_size: 3554000000
   genome_size_method: GoAT
   order:
     name: Dermoptera

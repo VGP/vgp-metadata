@@ -6,7 +6,7 @@ species:
   short_name: mEubGla
   taxon_id: 27606
   common_name: North Atlantic right whale
-  genome_size: 2.866
+  genome_size: 2866000000
   genome_size_method: GoAT
   order:
     name: Artiodactyla

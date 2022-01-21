@@ -6,7 +6,7 @@ species:
   short_name: bHaeMex
   taxon_id: '30427'
   common_name: house finch
-  genome_size: 1.369
+  genome_size: 1369000000
   genome_size_method: GoAT
   order:
     name: Passeriformes

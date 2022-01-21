@@ -6,7 +6,7 @@ species:
   short_name: mDasNov
   taxon_id: 9361
   common_name: nine-banded armadillo
-  genome_size: 5.291
+  genome_size: 5291000000
   genome_size_method: GoAT
   order:
     name: Cingulata

@@ -6,7 +6,7 @@ species:
   short_name: aRanSyl
   taxon_id: 45438
   common_name: wood frog
-  genome_size: 6.0
+  genome_size: 6000000000
   genome_size_method: GoAT
   order:
     name: Anura

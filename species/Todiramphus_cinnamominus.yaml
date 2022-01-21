@@ -6,7 +6,7 @@ species:
   short_name: bTodCin
   taxon_id: 1006542
   common_name: Micronesian kingfisher
-  genome_size: 1.457
+  genome_size: 1457000000
   genome_size_method: GoAT
   order:
     name: Coraciiformes

@@ -6,7 +6,7 @@ species:
   short_name: bRhyJub
   taxon_id: 54386
   common_name: kagu
-  genome_size: 1.424
+  genome_size: 1424000000
   genome_size_method: GoAT
   order:
     name: Gruiformes

@@ -6,7 +6,7 @@ species:
   short_name: fSpiTha
   taxon_id: 260508
   common_name: longfin smelt
-  genome_size: 0.822
+  genome_size: 822000000
   genome_size_method: GoAT
   order:
     name: Osmeriformes

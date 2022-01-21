@@ -6,7 +6,7 @@ species:
   short_name: mMonDom
   taxon_id: 13616
   common_name: gray short-tailed opossum
-  genome_size: 4.592
+  genome_size: 4592000000
   genome_size_method: GoAT
   order:
     name: Didelphimorphia

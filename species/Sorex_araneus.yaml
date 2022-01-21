@@ -6,7 +6,7 @@ species:
   short_name: mSorAra
   taxon_id: 42254
   common_name: European shrew
-  genome_size: 2.846
+  genome_size: 2846000000
   genome_size_method: GoAT
   order:
     name: Eulipotyphla

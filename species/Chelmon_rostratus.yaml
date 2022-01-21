@@ -6,7 +6,7 @@ species:
   short_name: fCheRos
   taxon_id: 109905
   common_name: copperband butterflyfish
-  genome_size: 0.734
+  genome_size: 734000000
   genome_size_method: GoAT
   order:
     name: Chaetodontiformes

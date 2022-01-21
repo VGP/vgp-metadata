@@ -6,7 +6,7 @@ species:
   short_name: bAraAra
   taxon_id: 9226
   common_name: blue-and-yellow macaw
-  genome_size: 1.412
+  genome_size: 1412000000
   genome_size_method: GoAT
   order:
     name: Psittaciformes

@@ -6,7 +6,7 @@ species:
   short_name: rEulEur
   taxon_id: 460621
   common_name: tarantolino
-  genome_size: 2.533
+  genome_size: 2533000000
   genome_size_method: GoAT
   order:
     name: Squamata

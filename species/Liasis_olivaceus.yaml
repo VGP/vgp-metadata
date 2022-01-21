@@ -6,7 +6,7 @@ species:
   short_name: rLiaOli
   taxon_id: 283338
   common_name: olive python
-  genome_size: 1.675
+  genome_size: 1675000000
   genome_size_method: GoAT
   order:
     name: Squamata

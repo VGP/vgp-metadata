@@ -6,7 +6,7 @@ species:
   short_name: aSpeBom
   taxon_id: 233779
   common_name: plains spadefoot toad
-  genome_size: 1.208
+  genome_size: 1208000000
   genome_size_method: GoAT
   order:
     name: Anura

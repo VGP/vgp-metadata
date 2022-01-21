@@ -6,7 +6,7 @@ species:
   short_name: rPodRaf
   taxon_id: 65483
   common_name: Aeolian wall lizard
-  genome_size: 1.949
+  genome_size: 1949000000
   genome_size_method: GoAT
   order:
     name: Squamata

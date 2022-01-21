@@ -6,7 +6,7 @@ species:
   short_name: bAmmNel
   taxon_id: 2857394
   common_name: Nelson's sparrow
-  genome_size: 1.3
+  genome_size: 1300000000
   genome_size_method: GoAT
   order:
     name: Passeriformes

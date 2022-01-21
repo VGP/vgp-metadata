@@ -6,7 +6,7 @@ species:
   short_name: mNeoNeb
   taxon_id: '61452'
   common_name: Clouded leopard
-  genome_size: 2.709
+  genome_size: 2709000000
   genome_size_method: GoAT
   order:
     name: Carnivora

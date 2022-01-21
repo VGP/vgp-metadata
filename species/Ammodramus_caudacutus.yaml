@@ -6,7 +6,7 @@ species:
   short_name: bAmmCau
   taxon_id: 69262
   common_name: saltmarsh sparrow
-  genome_size: 1.306
+  genome_size: 1306000000
   genome_size_method: GoAT
   order:
     name: Passeriformes
