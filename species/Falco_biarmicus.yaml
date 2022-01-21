@@ -11,5 +11,5 @@ species:
     - short_name: bFalBia1
       provider: Farooq Al-Ajli
       sex: female
-  genome_size: 12000000000
-  genome_size_method:
+  genome_size: 1400000000
+  genome_size_method: GoaT ancestral inferred

@@ -11,5 +11,5 @@ species:
     - short_name: bAcrTri1
       provider: Tali Magory Cohen
       sex: female
-  genome_size: 12000000000
-  genome_size_method:
+  genome_size: 1280000000
+  genome_size_method: GoaT ancestral inferred

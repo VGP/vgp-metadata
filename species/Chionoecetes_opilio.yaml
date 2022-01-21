@@ -11,5 +11,5 @@ species:
     - short_name: qChiOpi1
       provider: Amber Messmer, Ian Bradbury, Corey Morris
       sex: male
-  genome_size: 25000000000
+  genome_size: 2500000000
   genome_size_method:

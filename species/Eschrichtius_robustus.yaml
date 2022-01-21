@@ -11,5 +11,5 @@ species:
     - short_name: mEscRob1
       provider: Marlys Houck, Phillip Morin
       sex: male
-  genome_size: 30000000000
-  genome_size_method:
+  genome_size: 2870000000
+  genome_size_method: GoaT ancestral inferred

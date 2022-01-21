@@ -15,5 +15,5 @@ species:
         name: Falco peregrinus calidus
         common_name: Siberian peregrine falcon
         taxon_id: 495983
-  genome_size: 12000000000
-  genome_size_method:
+  genome_size: 1420000000
+  genome_size_method: GoaT ancestral inferred

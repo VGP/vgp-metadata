@@ -11,5 +11,5 @@ species:
     - short_name: mManPen7
       provider: Shujin Luo, Bill Murphy
       sex: male
-  genome_size: 30000000000
-  genome_size_method:
+  genome_size: 2800000000
+  genome_size_method: GoaT ancestral inferred
