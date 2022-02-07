@@ -1,0 +1,14 @@
+---
+species:
+  name: Copsychus sechellarum
+  individuals:
+  - short_name: bCopSec1
+  short_name: bCopSec
+  taxon_id: 797021
+  common_name: Seychelles magpie-robin
+  genome_size: 1.261
+  genome_size_method: GoAT
+  order:
+    name: Passeriformes
+  family:
+    name: Muscicapidae
