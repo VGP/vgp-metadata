@@ -1,0 +1,14 @@
+---
+species:
+  name: Leptodactylus fuscus
+  individuals:
+  - short_name: aLepFus1
+  short_name: aLepFus
+  taxon_id: 238119
+  common_name: rufous frog
+  genome_size: 2.592
+  genome_size_method: GoAT
+  order:
+    name: Anura
+  family:
+    name: Leptodactylidae
