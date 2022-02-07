@@ -1,0 +1,14 @@
+---
+species:
+  name: Hoplias malabaricus
+  individuals:
+  - short_name: fHopMal1
+  short_name: fHopMal
+  taxon_id: 27720
+  common_name: trahira
+  genome_size: 1.252
+  genome_size_method: GoAT
+  order:
+    name: Characiformes
+  family:
+    name: Erythrinidae
