@@ -1,0 +1,14 @@
+---
+species:
+  name: Hypanus sabinus
+  individuals:
+  - short_name: sHypSab1
+  short_name: sHypSab
+  taxon_id: 79690
+  common_name: Atlantic stingray
+  genome_size: 4.108
+  genome_size_method: GoAT
+  order:
+    name: Myliobatiformes
+  family:
+    name: Dasyatidae
