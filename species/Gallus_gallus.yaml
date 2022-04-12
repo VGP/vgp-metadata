@@ -1,3 +1,4 @@
+---
 species:
   common_name: chicken
   family:
@@ -14,7 +15,7 @@ species:
     mother: bGalGal2
     father: bGalGal3
     sex: female
-    prrovider: Nick Anthony, Wesley Warren
+    provider: Nick Anthony, Wesley Warren
     description: >
         Broiler x Leghorn cross;
   - short_name: bGalGal2
