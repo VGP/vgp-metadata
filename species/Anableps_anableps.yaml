@@ -1,3 +1,4 @@
+---
 species:
   short_name: fAnaAna
   name: Anableps anableps
@@ -10,4 +11,4 @@ species:
   individuals:
     - short_name: fAnaAna1
   genome_size: 939460000
-  genome_size_method: 10X Genomucs Supernova assembly 
+  genome_size_method: 10X Genomics Supernova assembly 
