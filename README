@@ -1,0 +1,7 @@
+Metadata is now located in the genomeark s3 bucket at
+s3://genomeark/species/Genus_species/metadata.yaml, for example:
+
+  > aws s3 ls s3://genomeark/species/Zeus_faber/
+                             PRE fZeuFab1/
+  2022-06-01 17:21:33        232 metadata.yaml
+
